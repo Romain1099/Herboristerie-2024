@@ -1,0 +1,138 @@
+\documentclass[a4paper,11pt,fleqn]{article}
+
+\usepackage[left=1cm,right=0.5cm,top=0.5cm,bottom=2cm]{geometry}
+
+\usepackage{bfcours}
+\usepackage{cite} % ou \usepackage{natbib} selon votre style de citation
+
+\def\rdifficulty{1}
+\setrdexo{%left skip=1cm,
+display exotitle,
+exo header = tcolorbox,
+%display tags,
+skin = bouyachakka,
+lower ={box=crep},
+display score,
+display level,
+save lower,
+score=\points,
+level=\rdifficulty,
+overlay={\node[inner sep=0pt,
+anchor=west,rotate=90, yshift=0.3cm]%,xshift=-3em], yshift=0.45cm
+at (frame.south west) {\thetags[0]} ;}
+]%obligatoire
+}
+\setrdcrep{seyes, correction=true, correction color=monrose, correction font = \large\bfseries}
+
+\newcommand{\tikzinclude}[1]{%
+    \stepcounter{tikzfigcounter}%
+    \csname tikzfig#1\endcsname
+}
+\input{tex/figures}
+
+\hypersetup{
+    pdfauthor={C.Ehrhard - R.Deschamps},
+    pdftitle={},
+    pdfsubject={},
+    pdfkeywords={},
+    pdfproducer={LuaLaTeX},
+    pdfcreator={Boum Factory}
+}
+
+\newcommand{\monimage}[2]{
+	\includegraphics[width=#1\textwidth]{images/#2}
+}
+
+\usepackage{imakeidx}
+\makeindex[title=Index des termes, intoc]
+
+\newcommand{\voc}[1]{\textbf{#1}\index{#1}}
+
+\definecolor{headerbg}{RGB}{0, 128, 0} % Couleur du fond de l'en-tête
+\definecolor{rowbg1}{RGB}{235, 245, 235} % Couleur des lignes claires
+\definecolor{rowbg2}{RGB}{255, 255, 255} % Couleur des lignes foncées
+\definecolor{highlight}{RGB}{255, 255, 0} % Couleur de surlignage
+
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}} % Définir une colonne alignée à gauche avec largeur fixe
+
+% Commande pour créer un tableau pour une plante
+\newcommand{\plante}[5]{
+\begin{tabular}{|L{3cm}|L{4cm}|L{2cm}|L{3cm}|L{3cm}|}
+\hline
+\rowcolor{headerbg}
+\textcolor{white}{\textbf{NOMS FRANÇAIS}} & \textcolor{white}{\textbf{NOMS SCIENTIFIQUES}} & \textcolor{white}{\textbf{FAMILLE}} & \textcolor{white}{\textbf{PARTIES UTILISÉES}} & \textcolor{white}{\textbf{FORMES DE PRÉPARATION}} \\
+\hline
+\rowcolor{rowbg1}
+#1 & #2 & #3 & #4 & #5 \\
+\hline
+\end{tabular}
+}
+
+% Commande pour créer un tableau pour une plante avec surlignage
+\newcommand{\highlightplante}[5]{
+\begin{tabular}{|L{3cm}|L{4cm}|L{2cm}|L{3cm}|L{3cm}|}
+\hline
+\rowcolor{headerbg}
+\textcolor{white}{\textbf{NOM FRANÇAIS}} & \textcolor{white}{\textbf{NOM SCIENTIFIQUES}} & \textcolor{white}{\textbf{FAMILLE}} & \textcolor{white}{\textbf{PARTIES UTILISÉES}} & \textcolor{white}{\textbf{FORMES DE PRÉPARATION}} \\
+\hline
+\rowcolor{rowbg1}
+\cellcolor{highlight}#1 & \cellcolor{highlight}#2 & #3 & #4 & #5 \\
+\hline
+\end{tabular}
+}
+
+
+
+\begin{document}
+
+\setcounter{pagecounter}{0}
+\setcounter{ExoMA}{0}
+\setcounter{prof}{0}
+%Pour les overlay
+\def\points{\phantom{AAA}}
+\def\difficulty{\phantom{AAA}}
+\chapitre[
+    $\mathcal{C}\mathcal{R}$% niveau % $\mathbf{6^{\text{ème}}}$
+    ]{
+    Herboristerie 2024% theme
+    }{
+    Association% type_etablissement
+    }{
+    Arsimed% nom_etablissement
+    }{
+    \tableofcontents \newpage% supplement
+    }{
+    Notes de stage :% type_document
+    }
+
+    \section*{Remerciements}
+    \addcontentsline{toc}{section}{Remerciements}
+        \input{tex/divers/remerciements.tex}
+
+    \newpage
+    \section{Transformations}
+
+        \input{tex/transformations.tex}
+
+	\newpage
+    \section{Botanique}
+
+        \input{tex/botanique.tex}
+	\newpage
+    \section{Recettes}
+
+        \input{tex/recettes.tex}
+	\newpage
+    \section{Utilisations médicinales}
+
+        \input{tex/medecine.tex}
+
+
+    % Insérer l'index
+    \printindex
+
+    \newpage
+    \section*{Références}
+    \addcontentsline{toc}{section}{Références}
+	    \input{tex/references.tex}
+\end{document}
