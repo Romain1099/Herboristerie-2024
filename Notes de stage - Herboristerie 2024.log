@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10) (format=lualatex 2024.7.16)  5 AUG 2024 13:07
+This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10) (format=lualatex 2024.7.16)  7 AUG 2024 12:30
  system commands enabled.
 **"Notes de stage - Herboristerie 2024.tex"
 ("./Notes de stage - Herboristerie 2024.tex"
@@ -3829,48 +3829,64 @@ Package: rdexo 2023/12/12 rdexo.sty
 use_rdexo_rdcrep.sty"
 Package: bfcours-use_rdexo_rdcrep 29/06/2024 - Cas d'utilisation de rdexo/crep 
 etc pour bfcours
-)) (./tex/figures.tex)
+)) ("C:/Program Files/MiKTeX/tex/latex/cite/cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(./tex/figures.tex) ("C:/Program Files/MiKTeX/tex/latex/imakeidx/imakeidx.sty"
+Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
+nous mode
+
+("C:/Program Files/MiKTeX/tex/generic/iftex/ifxetex.sty"
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+))
+\"Notes de stage - Herboristerie 2024"@idxfile=\write7
+
+\openout7 = Notes de stage - Herboristerie 2024.idx
+
+Writing index file "Notes de stage - Herboristerie 2024".idx
 ("./Notes de stage - Herboristerie 2024.aux")
 \openout1 = Notes de stage - Herboristerie 2024.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 44.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 95.
 LaTeX Font Info:    Trying to load font information for FMS+futm on input line 
-44.
+95.
 
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/fourier/fmsfutm.fd
 File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
 )
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 95.
 LaTeX Font Info:    Trying to load font information for FMX+futm on input line 
-44.
+95.
 
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/fourier/fmxfutm.fd
 File: fmxfutm.fd futm-extension
 )
-LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    ... okay on input line 95.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -3906,26 +3922,26 @@ LaTeX Font Info:    ... okay on input line 44.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 44.
+Package hyperref Info: Link coloring ON on input line 95.
 ("./Notes de stage - Herboristerie 2024.out")
 ("./Notes de stage - Herboristerie 2024.out")
-\@outlinefile=\write7
+\@outlinefile=\write8
 
-\openout7 = Notes de stage - Herboristerie 2024.out
-LaTeX Font Info:    Redeclaring math symbol \iintop on input line 44.
-LaTeX Font Info:    Redeclaring math symbol \iiintop on input line 44.
-LaTeX Font Info:    Redeclaring math symbol \oiintop on input line 44.
-LaTeX Font Info:    Redeclaring math symbol \oiiintop on input line 44.
-LaTeX Font Info:    Redeclaring math accent \widehat on input line 44.
-LaTeX Font Info:    Redeclaring math accent \widetilde on input line 44.
+\openout8 = Notes de stage - Herboristerie 2024.out
+LaTeX Font Info:    Redeclaring math symbol \iintop on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \iiintop on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \oiintop on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \oiiintop on input line 95.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 95.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 95.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/phv/m/n on input line 44.
+(Font)                  OT1/cmss/m/n --> TU/phv/m/n on input line 95.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/phv/b/n on input line 44.
+(Font)                  OT1/cmss/bx/n --> TU/phv/b/n on input line 95.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 44.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 95.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 44.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 95.
 
 
 Package unicode-math Warning: Using \overbracket and \underbracket from
@@ -3981,7 +3997,7 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
 your preamble.
- on input line 44.
+ on input line 95.
 
 
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/translations/dicts/trans
@@ -3990,7 +4006,7 @@ File: translations-basic-dictionary-french.trsl (french translation file `trans
 lations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `french'. on input line 44.
+or `french'. on input line 95.
 \c__nicematrix_shift_Ldots_last_row_dim=\dimen529
 \c__nicematrix_shift_exterior_Vdots_dim=\dimen530
 \c__nicematrix_innersep_middle_dim=\dimen531
@@ -4009,32 +4025,55 @@ Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package french.ldf Info: Setting StandardItemizeEnv=true for
 (french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 44.
+(french.ldf)             reported on input line 95.
 Package french.ldf Info: Setting StandardEnumerateEnv=true for
 (french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 44.
-LaTeX Info: Redefining \up on input line 44.
+(french.ldf)             reported on input line 95.
+LaTeX Info: Redefining \up on input line 95.
 \Etoc@tf=\read13
 
 contour: Using 16 copies for `\textcolor {black}{\Large  $\symcal {C}\symcal {R
-}$}' on input line 64.
+}$}' on input line 115.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 13.24796pt on input line 64.
+(Font)              scaled to size 13.24796pt on input line 115.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 64.
+(Font)              scaled to size 9.19998pt on input line 115.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 64.
-\tf@toc=\write8
+(Font)              scaled to size 7.35999pt on input line 115.
+\tf@toc=\write9
 
-\openout8 = Notes de stage - Herboristerie 2024.toc
+\openout9 = Notes de stage - Herboristerie 2024.toc
 [1
 
 
 Missing character: There is no ] (U+005D) in font nullfont!
 {C:/Users/Utilisateur/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(./tex/transformations.tex (./tex/transformations/alcoolature.tex)
-(./tex/transformations/solvant_eau.tex)
-(./tex/transformations/solvant_vinaigre.tex)
+<Images/plantes_nature/coquelicot.jpg, id=80, 1505.625pt x 2007.5pt>
+File: Images/plantes_nature/coquelicot.jpg Graphic file (type jpg)
+<use Images/plantes_nature/coquelicot.jpg>
+Package luatex.def Info: Images/plantes_nature/coquelicot.jpg  used on input li
+ne 117.
+(luatex.def)             Requested size: 110.96616pt x 147.95229pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 117.
+See the caption package documentation for explanation.
+
+<Images/plantes_nature/romarin.jpg, id=81, 1606.0pt x 1204.5pt>
+File: Images/plantes_nature/romarin.jpg Graphic file (type jpg)
+<use Images/plantes_nature/romarin.jpg>
+Package luatex.def Info: Images/plantes_nature/romarin.jpg  used on input line 
+118.
+(luatex.def)             Requested size: 110.96616pt x 83.22086pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 118.
+See the caption package documentation for explanation.
+
+(./tex/divers/remerciements.tex) [2<./Images/plantes_nature/coquelicot.jpg><./Im
+ages/plantes_nature/romarin.jpg>] (./tex/transformations.tex
+(./tex/transformations/alcoolature.tex) (./tex/transformations/solvant_eau.tex) (./tex/transformations/solvant_vinaigre.tex)
 (./tex/transformations/macerat_huileux.tex
 Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
@@ -4045,27 +4084,109 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--25
 
  []
 
-<images/groupe/tetra.png, id=82, 205.9695pt x 245.718pt>
-File: images/groupe/tetra.png Graphic file (type png)
-<use images/groupe/tetra.png>
-Package luatex.def Info: images/groupe/tetra.png  used on input line 33.
-(luatex.def)             Requested size: 52.35628pt x 62.45667pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 33--38
 
  []
 
-<images/avec_sourire.png, id=85, 129.48375pt x 122.25674pt>
-File: images/avec_sourire.png Graphic file (type png)
-<use images/avec_sourire.png>
-Package luatex.def Info: images/avec_sourire.png  used on input line 42.
-(luatex.def)             Requested size: 13.87155pt x 13.0957pt.
-)) [2
+)) [3
 Missing character: There is no ] (U+005D) in font nullfont!
 Missing character: There is no ] (U+005D) in font nullfont!
 Missing character: There is no ] (U+005D) in font nullfont!
 Missing character: There is no ] (U+005D) in font nullfont!
-<./images/groupe/tetra.png><./images/avec_sourire.png>]
+] (./tex/botanique.tex (./tex/botanique/introduction.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+) (./tex/botanique/lamiaceae.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 11--6
+
+ []
+
+(./tex/botanique/solanaceae.tex) (./tex/botanique/asteraceae.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 5--12
+
+ []
+
+(./tex/botanique/bracicaceae.tex)
+
+LaTeX Warning: Citation `laporte2023' on page 4 undefined on input line 16.
+
+) [4
+Missing character: There is no ] (U+005D) in font nullfont!
+Missing character: There is no ] (U+005D) in font nullfont!
+] (./tex/recettes.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+
+ []
+
+(./tex/recettes/baume_a_levre.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 44--44
+[]\TU/TeXGyreSchola(0)/m/n/10.95 Mé-lan-ger les \TU/TeXGyreSchola(0)/b/n/10.95
+ ma-cé-rats hui-leux[] \TU/TeXGyreSchola(0)/m/n/10.95 dans un \TU/TeXGyreSchol
+a(0)/b/n/10.95 cul de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--50
+
+ []
+
+[5
+Missing character: There is no ] (U+005D) in font nullfont!
+Missing character: There is no ] (U+005D) in font nullfont!
+Missing character: There is no ] (U+005D) in font nullfont!
+Missing character: There is no ] (U+005D) in font nullfont!
+Missing character: There is no ] (U+005D) in font nullfont!
+Missing character: There is no ] (U+005D) in font nullfont!
+Missing character: There is no ] (U+005D) in font nullfont!
+Missing character: There is no ] (U+005D) in font nullfont!
+Missing character: There is no ] (U+005D) in font nullfont!
+Missing character: There is no ] (U+005D) in font nullfont!
+Missing character: There is no ] (U+005D) in font nullfont!
+Missing character: There is no ] (U+005D) in font nullfont!
+]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+
+ []
+
+) [6
+Missing character: There is no ] (U+005D) in font nullfont!
+] (./tex/medecine.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+(./tex/medecine/coupures.tex)) [7] ("./Notes de stage - Herboristerie 2024.ind"
+) [8
+
+] (./tex/references.tex) [9]
 
 enddocument/afterlastpage: lastpage setting LastPage.
 ("./Notes de stage - Herboristerie 2024.aux")
@@ -4078,34 +4199,40 @@ L3 programming layer <2023-08-29>
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.4315pt have occurred.
 
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `"Notes de stage - Herboristerie 2024".out' h
 as not changed.
 (rerunfilecheck)             Checksum: <no file>.
 )
 
 Here is how much of LuaTeX's memory you used:
- 104277 strings out of 477259
- 125002,4921788 words of node,token memory allocated
- 1924 words of node memory still in use:
-   33 hlist, 2 vlist, 15 rule, 13 glue, 4 kern, 1 penalty, 2 glyph, 156 attribut
-e, 124 glue_spec, 87 attribute_list, 2 write, 24 pdf_literal, 24 pdf_colorstack 
-nodes
-   avail lists: 1:30,2:19580,3:3141,4:317,5:410,6:88,7:5034,8:7,9:1270,10:9,11:2
-70
- 122206 multiletter control sequences out of 65536+600000
- 185 fonts using 28672711 bytes
- 116i,17n,128p,2790b,1531s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 104766 strings out of 477259
+ 125011,4921788 words of node,token memory allocated
+ 2531 words of node memory still in use:
+   33 hlist, 2 vlist, 15 rule, 51 glue, 4 kern, 1 penalty, 2 glyph, 303 attribut
+e, 125 glue_spec, 108 attribute_list, 2 write, 24 pdf_literal, 24 pdf_colorstack
+ nodes
+   avail lists: 1:46,2:19918,3:3105,4:344,5:421,6:101,7:4960,8:7,9:1347,10:15,11
+:270
+ 122555 multiletter control sequences out of 65536+600000
+ 187 fonts using 29022407 bytes
+ 116i,17n,128p,2862b,1531s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreschola-bold.otf><
+C:/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreschola-italic.otf>
 <C:/Users/Utilisateur/AppData/Roaming/MiKTeX/fonts/opentype/public/fontawesome5/
 FontAwesome5Free-Solid-900.otf><C:/Program Files/MiKTeX/fonts/opentype/public/te
-x-gyre/texgyreschola-bold.otf><C:/Program Files/MiKTeX/fonts/opentype/public/tex
--gyre/texgyreschola-italic.otf><C:/Program Files/MiKTeX/fonts/opentype/public/te
 x-gyre/texgyreschola-regular.otf><C:/Program Files/MiKTeX/fonts/opentype/public/
 tex-gyre/texgyreschola-bold.otf><C:/Program Files/MiKTeX/fonts/opentype/public/t
 ex-gyre-math/texgyreschola-math.otf>
-Output written on Notes de stage - Herboristerie 2024.pdf (2 pages, 80676 bytes)
-.
+Output written on Notes de stage - Herboristerie 2024.pdf (9 pages, 1056361 byte
+s).
 
-PDF statistics: 134 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 131072)
+PDF statistics: 204 PDF objects out of 1000 (max. 8388607)
+ 56 named destinations out of 1000 (max. 131072)
  326 words of extra memory for PDF output out of 10000 (max. 100000000)
 

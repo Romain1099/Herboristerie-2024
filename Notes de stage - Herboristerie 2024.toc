@@ -1,8 +1,34 @@
 \@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
 \babel@toc {french}{}\relax 
 \babel@toc {french}{}\relax 
-\contentsline {section}{\numberline {1}Transformations}{2}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Teintures mères}{2}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Solvant eau}{2}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Solvant vinaigre}{2}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}Macérat huileux}{2}{subsection.1.4}%
+\contentsline {section}{Remerciements}{2}{section*.2}%
+\contentsline {section}{\numberline {1}Transformations}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Teintures mères}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Solvant eau}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Solvant vinaigre}{3}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Macérat huileux}{3}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Botanique}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Introduction}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Lamiaceae}{4}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Sauge}{4}{subsubsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.3}Solanaceae}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Asteraceae}{4}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Achillée millefeuille}{4}{subsubsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.5}Bracicaceae}{4}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Recettes}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Baumes}{5}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Baume à lèvre apaisant}{5}{subsubsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.2}Onguent}{6}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Huile}{6}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Tisanes}{6}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Cuisine}{6}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Utilisations médicinales}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Saignements}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Migraines}{7}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Douleurs de règles}{7}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Brulûres}{7}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Irritations}{7}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Coupures}{7}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Ballonnements}{7}{subsection.4.7}%
+\contentsline {section}{Index des termes}{8}{section*.3}%
+\contentsline {section}{Références}{9}{section*.5}%

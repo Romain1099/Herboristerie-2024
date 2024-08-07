@@ -40,9 +40,28 @@ at (frame.south west) {\thetags[0]} ;}
 }
 
 \newcommand{\monimage}[2]{
-	\includegraphics[width=#1\textwidth]{images/#2}
+	\includegraphics[width=#1\textwidth]{Images/#2}
 }
-
+\newcommand{\includeplantenature}[4][0.25]{
+    \begin{minipage}[t]{#1\textwidth}    
+        \phantom{a}
+        \begin{center}
+            \includegraphics[width=0.8\linewidth]{Images/plantes_nature/#2}
+            \captionof{figure}{#3}
+            {\footnotesize Plante en milieu naturel\\#4}
+        \end{center}
+    \end{minipage}
+}
+\newcommand{\includeplanteseche}[4][0.25]{
+    \begin{minipage}[t]{#1\textwidth}    
+        \phantom{a}
+        \begin{center}
+            \includegraphics[width=0.8\linewidth]{Images/plantes_sechees/#2}
+            \captionof{figure}{#3}
+            {\footnotesize Plante émondée\\#4}
+        \end{center}
+    \end{minipage}
+}
 \usepackage{imakeidx}
 \makeindex[title=Index des termes, intoc]
 
@@ -60,7 +79,7 @@ at (frame.south west) {\thetags[0]} ;}
 \begin{tabular}{|L{3cm}|L{4cm}|L{2cm}|L{3cm}|L{3cm}|}
 \hline
 \rowcolor{headerbg}
-\textcolor{white}{\textbf{NOMS FRANÇAIS}} & \textcolor{white}{\textbf{NOMS SCIENTIFIQUES}} & \textcolor{white}{\textbf{FAMILLE}} & \textcolor{white}{\textbf{PARTIES UTILISÉES}} & \textcolor{white}{\textbf{FORMES DE PRÉPARATION}} \\
+\textcolor{white}{\textbf{Nom français}} & \textcolor{white}{\textbf{Nom latin}} & \textcolor{white}{\textbf{Famille}} & \textcolor{white}{\textbf{Parties utilisées}} & \textcolor{white}{\textbf{Forme de préparation}} \\
 \hline
 \rowcolor{rowbg1}
 #1 & #2 & #3 & #4 & #5 \\
@@ -73,7 +92,7 @@ at (frame.south west) {\thetags[0]} ;}
 \begin{tabular}{|L{3cm}|L{4cm}|L{2cm}|L{3cm}|L{3cm}|}
 \hline
 \rowcolor{headerbg}
-\textcolor{white}{\textbf{NOM FRANÇAIS}} & \textcolor{white}{\textbf{NOM SCIENTIFIQUES}} & \textcolor{white}{\textbf{FAMILLE}} & \textcolor{white}{\textbf{PARTIES UTILISÉES}} & \textcolor{white}{\textbf{FORMES DE PRÉPARATION}} \\
+\textcolor{white}{\textbf{Nom français}} & \textcolor{white}{\textbf{Nom latin}} & \textcolor{white}{\textbf{Famille}} & \textcolor{white}{\textbf{Parties utilisées}} & \textcolor{white}{\textbf{Forme de préparation}} \\
 \hline
 \rowcolor{rowbg1}
 \cellcolor{highlight}#1 & \cellcolor{highlight}#2 & #3 & #4 & #5 \\
@@ -104,6 +123,9 @@ at (frame.south west) {\thetags[0]} ;}
     }{
     Notes de stage :% type_document
     }
+
+\includeplantenature{coquelicot.jpg}{Coquelicots}{Vue sur les pétales - 04/08/2024}
+\includeplanteseche{romarin.jpg}{Romarin}{Jardin des thermes de Cassinomagus - 30/07/2024}
 
     \section*{Remerciements}
     \addcontentsline{toc}{section}{Remerciements}
