@@ -62,15 +62,29 @@ at (frame.south west) {\thetags[0]} ;}
         \end{center}
     \end{minipage}
 }
+\newcommand{\includeprepa}[4][0.25]{
+    \begin{minipage}[t]{#1\textwidth}    
+        \phantom{a}
+        \begin{center}
+            \includegraphics[width=0.8\linewidth]{Images/preparations/#2}
+            \captionof{figure}{#3}
+            {\footnotesize Préparation\\#4}
+        \end{center}
+    \end{minipage}
+}
+
+\newcommand{\vocref}[2]{
+    \href{#1}{\bfseries\color{monrose} #2}
+}
 \usepackage{imakeidx}
 \makeindex[title=Index des termes, intoc]
 
-\newcommand{\voc}[1]{\textbf{#1}\index{#1}}
 
 \definecolor{headerbg}{RGB}{0, 128, 0} % Couleur du fond de l'en-tête
 \definecolor{rowbg1}{RGB}{235, 245, 235} % Couleur des lignes claires
 \definecolor{rowbg2}{RGB}{255, 255, 255} % Couleur des lignes foncées
 \definecolor{highlight}{RGB}{255, 255, 0} % Couleur de surlignage
+\newcommand{\voc}[1]{\textbf{\color{headerbg!75!black}#1}\index{#1}}
 
 \newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}} % Définir une colonne alignée à gauche avec largeur fixe
 
@@ -87,17 +101,10 @@ at (frame.south west) {\thetags[0]} ;}
 \end{tabular}
 }
 
-% Commande pour créer un tableau pour une plante avec surlignage
-\newcommand{\highlightplante}[5]{
-\begin{tabular}{|L{3cm}|L{4cm}|L{2cm}|L{3cm}|L{3cm}|}
-\hline
-\rowcolor{headerbg}
-\textcolor{white}{\textbf{Nom français}} & \textcolor{white}{\textbf{Nom latin}} & \textcolor{white}{\textbf{Famille}} & \textcolor{white}{\textbf{Parties utilisées}} & \textcolor{white}{\textbf{Forme de préparation}} \\
-\hline
-\rowcolor{rowbg1}
-\cellcolor{highlight}#1 & \cellcolor{highlight}#2 & #3 & #4 & #5 \\
-\hline
-\end{tabular}
+\renewcommand\boite[2]{
+\begin{tcolorbox}[nobeforeafter,title=\bcfleur #1,halign title=flush left,fonttitle=\bfseries,colbacktitle=headerbg,coltitle=white,colback=white]%red!50!black
+#2
+\end{tcolorbox}
 }
 
 
