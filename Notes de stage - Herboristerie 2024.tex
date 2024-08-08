@@ -159,6 +159,48 @@ at (frame.south west) {\thetags[0]} ;}
     \end{tcolorbox}
 }{}
 
+\NewDocumentEnvironment{boiterecette}{o+b}{
+    \begin{tcolorbox}[
+        enhanced,
+        before skip=2mm,after skip=2mm,
+        colback=red!5,colframe=red!50,boxrule=0pt,
+        attach boxed title to top left={xshift=1cm,yshift*=1mm-\tcboxedtitleheight},
+        varwidth boxed title*=-3cm,
+        boxed title style={frame code={
+            \path[fill=blue!50]
+            ([yshift=-1mm,xshift=-1mm]frame.north west)
+            arc[start angle=0,end angle=180,radius=1mm]
+            ([yshift=-1mm,xshift=1mm]frame.north east)
+            arc[start angle=180,end angle=0,radius=1mm];
+            \path[left color=blue!50,right color=blue!50]
+            ([xshift=-2mm]frame.north west) -- ([xshift=2mm]frame.north east)
+            [rounded corners=1mm]-- ([xshift=1mm,yshift=-1mm]frame.north east)
+            -- (frame.south east) -- (frame.south west)
+            -- ([xshift=-1mm,yshift=-1mm]frame.north west)
+            [sharp corners]-- cycle;
+        },interior engine=empty,
+        },
+        fonttitle=\bfseries,
+        title={\large{Fiche d'identité}},
+        coltitle =white,
+        drop shadow,
+        borderline west={0.05mm}{0pt}{red!40},
+        borderline south={0.05mm}{0pt}{red!40!black},
+        overlay={
+            \draw[line width=0.5mm, rem!50] 
+            ([xshift=0mm,yshift=-0.25mm]frame.south west)--([xshift=0mm]frame.north west); % Bordure gauche
+            \draw[line width=0.5mm, rem!50] 
+            ([yshift=0mm]frame.south west)--([yshift=0mm]frame.south east); % Bordure du bas
+            \ifx#1\empty
+            \else
+            \node[anchor=north east, fill=white, draw=rem!50, rounded corners] at ([xshift=-4cm]frame.north east) {\begin{minipage}{0.5\textwidth} \centering \textbf{#1} \end{minipage}};
+            \fi%
+        }
+    ]
+    #2
+    \end{tcolorbox}
+}{}
+
 % Définition de la commande \ficheidentiteplante
 \newcommand{\ficheidentiteplante}[9]{
     \subsubsection{#1}
@@ -185,7 +227,40 @@ at (frame.south west) {\thetags[0]} ;}
         \end{Remarque}
     \end{boiteidentiteplante}
 }
+\newcommand{\ficherecette}[9]{
+    \subsubsection{#1}
 
+    \begin{boiterecette}[#1]
+        \begin{multicols}{2}
+            \textbf{Ingrédients :}\\
+            \begin{bclogo}[couleur=blue!30,arrondi=0.1,logo=\bccrayon]{Ingrédients}
+                \begin{itemize}[label=\mysquare]
+                    #2
+                \end{itemize}
+            \end{bclogo}
+            \begin{bclogo}[couleur=blue!30,arrondi=0.1,logo=\bccrayon]{Matériel}
+                \begin{itemize}[label=\mysquare]
+                    #3
+                \end{itemize}
+            \end{bclogo}
+        \end{multicols}
+        \begin{multicols}{2}
+            \begin{bclogo}[couleur=blue!30,arrondi=0.1,logo=\bccalendrier]{Conservation}
+                #4
+            \end{bclogo}
+            \begin{bclogo}[couleur=blue!30,arrondi=0.1,logo=\bcoutil]{Utilisation}
+                #5
+            \end{bclogo}
+
+	\columnbreak
+
+	    \begin{center}\includeprepa[0.4]{#7}{#8}{#9}\end{center}
+    \end{multicols}
+        \begin{Remarque}
+            #6
+        \end{Remarque}
+    \end{boiterecette}
+}
 \begin{document}
 
 \setcounter{pagecounter}{0}

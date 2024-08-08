@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10) (format=lualatex 2024.7.16)  8 AUG 2024 17:15
+This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10) (format=lualatex 2024.7.16)  8 AUG 2024 17:34
  system commands enabled.
 **"Notes de stage - Herboristerie 2024.tex"
 ("./Notes de stage - Herboristerie 2024.tex"
@@ -4802,11 +4802,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--40
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\TU/TeXGyreSchola(0)/b/n/10.95 gomme.Gomme
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
 []|\TU/TeXGyreSchola(0)/m/n/10.95 As-tra-ga-lus gum-
  []
 
@@ -4843,11 +4838,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--40
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
 []|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Au-bé-pine.Epine
  []
 
 
@@ -5161,11 +5151,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--79
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--79
-[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ce-ri-sier griot-
- []
-
-
 Underfull \hbox (badness 2343) in paragraph at lines 79--79
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Ci-cho-rium in-ty-bus
  []
@@ -5268,11 +5253,6 @@ Underfull \hbox (badness 1231) in paragraph at lines 99--99
 
 Underfull \hbox (badness 10000) in paragraph at lines 99--99
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Criste ma-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 99--99
-\TU/TeXGyreSchola(0)/b/n/10.95 rine.Perce-
  []
 
 
@@ -5553,11 +5533,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 133--133
 
 Underfull \hbox (badness 3460) in paragraph at lines 133--133
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Voir : As-tra-gale à
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 133--133
-[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Gomme ara-
  []
 
 
@@ -5963,11 +5938,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 186--186
 
 Underfull \hbox (badness 10000) in paragraph at lines 186--186
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Me-nyanthes tri-fo-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 186--186
-[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Mousse d’Ir-
  []
 
 
@@ -6596,11 +6566,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 264--264
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 264--264
-[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Vio-lette tri-co-
- []
-
-
 Underfull \hbox (badness 1931) in paragraph at lines 264--264
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Voir : Pen-sée sau-
  []
@@ -6625,25 +6590,22 @@ L3 programming layer <2023-08-29>
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.4315pt have occurred.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `"Notes de stage - Herboristerie 2024".out' h
 as not changed.
 (rerunfilecheck)             Checksum: <no file>.
 )
 
 Here is how much of LuaTeX's memory you used:
- 106733 strings out of 477259
+ 106709 strings out of 477259
  305416,5906145 words of node,token memory allocated
- 8574 words of node memory still in use:
-   33 hlist, 2 vlist, 15 rule, 274 glue, 4 kern, 1 penalty, 2 glyph, 2067 attrib
-ute, 125 glue_spec, 360 attribute_list, 2 write, 24 pdf_literal, 75 pdf_action, 
+ 8464 words of node memory still in use:
+   33 hlist, 2 vlist, 15 rule, 274 glue, 4 kern, 1 penalty, 2 glyph, 2032 attrib
+ute, 125 glue_spec, 355 attribute_list, 2 write, 24 pdf_literal, 70 pdf_action, 
 24 pdf_colorstack nodes
-   avail lists: 1:56,2:26652,3:38528,4:648,5:672,6:238,7:6418,8:8,9:1766,10:15,1
+   avail lists: 1:56,2:26692,3:38528,4:648,5:672,6:238,7:6418,8:8,9:1766,10:15,1
 1:395
- 124208 multiletter control sequences out of 65536+600000
- 191 fonts using 29496407 bytes
+ 124184 multiletter control sequences out of 65536+600000
+ 191 fonts using 29496487 bytes
  116i,17n,128p,2862b,2709s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreschola-bold.otf><
 C:/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreschola-italic.otf>
@@ -6654,10 +6616,10 @@ tex-gyre/texgyreschola-bold.otf><C:/Program Files/MiKTeX/fonts/opentype/public/t
 ex-gyre-math/texgyreschola-math.otf><C:/Program Files/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/c
 mtt8.pfb>
-Output written on Notes de stage - Herboristerie 2024.pdf (31 pages, 2012469 byt
+Output written on Notes de stage - Herboristerie 2024.pdf (31 pages, 2010161 byt
 es).
 
-PDF statistics: 1130 PDF objects out of 1200 (max. 8388607)
+PDF statistics: 1123 PDF objects out of 1200 (max. 8388607)
  93 named destinations out of 1000 (max. 131072)
  542 words of extra memory for PDF output out of 10000 (max. 100000000)
 
