@@ -93,7 +93,7 @@ at (frame.south west) {\thetags[0]} ;}
 %\DTLloaddb{liste148}{Ressources/liste_148.csv}
 
 \definecolor{highlight}{RGB}{255, 255, 0} % Couleur de surlignage
-\newcommand{\voc}[1]{\textbf{\color{headerbg!75!black}#1}\index{#1}}
+\newcommand{\voc}[1]{\textbf{\color{red!65!black}#1}\index{#1}}
 
 \newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}} % Définir une colonne alignée à gauche avec largeur fixe
 
@@ -232,12 +232,12 @@ at (frame.south west) {\thetags[0]} ;}
 
     \begin{boiterecette}[#1]
         \begin{multicols}{2}
-            \begin{bclogo}[couleur=green!70!gray,arrondi=0.1,logo=\bcoeil]{Ingrédients}
+            \begin{bclogo}[couleur=green!30!white,arrondi=0.1,logo=\bcoeil]{Ingrédients}
                 \begin{itemize}[label=\mysquare]
                     #2
                 \end{itemize}
             \end{bclogo}
-            \begin{bclogo}[couleur=green!60!gray,arrondi=0.1,logo=\bcoutil]{Matériel}
+            \begin{bclogo}[couleur=green!40!white,arrondi=0.1,logo=\bcoutil]{Matériel}
                 \begin{itemize}[label=\mysquare]
                     #3
                 \end{itemize}

@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10) (format=lualatex 2024.7.16)  8 AUG 2024 23:06
+This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10) (format=lualatex 2024.7.16)  8 AUG 2024 23:47
  system commands enabled.
 **"Notes de stage - Herboristerie 2024.tex"
 ("./Notes de stage - Herboristerie 2024.tex"
@@ -4287,7 +4287,7 @@ File: bc-crayon.mps Graphic file (type mps)
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-crayon.mps)
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 49.
+(mdframed)              on input line 56.
 )
 [7
 Missing character: There is no ] (U+005D) in font nullfont!
@@ -4507,65 +4507,69 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--7
  []
 
 (./tex/recettes/baume_a_levre.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
+File: bc-oeil.mps Graphic file (type mps)
+ [MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-oeil.mps)
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 50.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 50.
+File: bc-outil.mps Graphic file (type mps)
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--19
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-
- []
-
-File: bc-fleur.mps Graphic file (type mps)
 [MP to PDF]
-(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
-Underfull \hbox (badness 1490) in paragraph at lines 44--44
-[]\TU/TeXGyreSchola(0)/m/n/10.95 Mé-lan-ger les []\TU/TeXGyreSchola(0)/b/n/10.
-95 ma-cé-rats hui-leux[][] \TU/TeXGyreSchola(0)/m/n/10.95 dans un []\TU/TeXGyr
-eSchola(0)/b/n/10.95 cul de
- []
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-outil.mps)
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 50.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 50.
+File: bc-calendrier.mps Graphic file (type mps)
+
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-calendrier.mps
+)
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 50.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 50.
+File: bc-book.mps Graphic file (type mps)
+ [MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-book.mps)
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 50.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 50.
+<Images/preparations/baume.jpg, id=314, 1606.0pt x 1204.5pt>
+File: Images/preparations/baume.jpg Graphic file (type jpg)
+<use Images/preparations/baume.jpg>
+Package luatex.def Info: Images/preparations/baume.jpg  used on input line 50.
+(luatex.def)             Requested size: 168.4384pt x 126.32pt.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 50.
+See the caption package documentation for explanation.
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--50
-
- []
-
-[13
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-]
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
-
- []
-
+File: bc-crayon.mps Graphic file (type mps)
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-crayon.mps)
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 50.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 50.
 )
 Underfull \hbox (badness 10000) in paragraph at lines 17--17
 
  []
 
-(./tex/recettes/vinaigres.tex
+[13<./Images/preparations/baume.jpg>] (./tex/recettes/vinaigres.tex
 File: bc-oeil.mps Graphic file (type mps)
- [MP to PDF]
+
+[MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-oeil.mps)
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -4632,14 +4636,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--40
 
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 40.
-)) [14
-Missing character: There is no ] (U+005D) in font nullfont!
-] [15] (./tex/medecine.tex
+)) [14] (./tex/medecine.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-(./tex/medecine/coupures.tex)) [16] (./Ressources/liste_148.tex
+(./tex/medecine/coupures.tex)) [15] (./Ressources/liste_148.tex
 Underfull \hbox (badness 10000) in paragraph at lines 24--24
 \TU/TeXGyreSchola(0)/m/n/10.95 Willd. et autres
  []
@@ -4804,7 +4806,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--24
 []|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
  []
 
-[17]
+[16]
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 An-gé-lique.An-gé-
  []
@@ -4939,7 +4941,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--40
 []|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
  []
 
-[18]
+[17]
 Underfull \hbox (badness 10000) in paragraph at lines 59--59
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Bal-sa-mite odo-
  []
@@ -5074,7 +5076,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--59
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ca-mo-mille vul-
  []
 
-[19]
+[18]
 Underfull \hbox (badness 10000) in paragraph at lines 79--79
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Can-ne-lier de
  []
@@ -5284,7 +5286,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--79
 []|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
  []
 
-[20]
+[19]
 Underfull \hbox (badness 10000) in paragraph at lines 99--99
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Voir : Courge
  []
@@ -5389,7 +5391,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 99--99
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Eleu-the-ro-coc-cus
  []
 
-[21]
+[20]
 Underfull \hbox (badness 5533) in paragraph at lines 114--114
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Ar-te-mi-sia dra-cun-
  []
@@ -5489,7 +5491,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--114
 []|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
  []
 
-[22]
+[21]
 Underfull \hbox (badness 10000) in paragraph at lines 133--133
 []|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
  []
@@ -5614,7 +5616,7 @@ Underfull \hbox (badness 2903) in paragraph at lines 133--133
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Gomme de ster-
  []
 
-[23]
+[22]
 Underfull \hbox (badness 10000) in paragraph at lines 153--153
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Griot-tier.Ce-
  []
@@ -5784,7 +5786,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 153--153
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Fleur, som-mité
  []
 
-[24]
+[23]
 Underfull \hbox (badness 10000) in paragraph at lines 167--167
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 La-vande stoe-
  []
@@ -5909,7 +5911,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 167--167
 []|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
  []
 
-[25]
+[24]
 Underfull \hbox (badness 10000) in paragraph at lines 186--186
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Mar-jo-laine.Ori-
  []
@@ -6069,7 +6071,7 @@ Underfull \hbox (badness 7486) in paragraph at lines 186--186
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Myr-tus com-mu-nis
  []
 
-[26]
+[25]
 Underfull \hbox (badness 10000) in paragraph at lines 206--206
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Myr-tille.Ai-relle
  []
@@ -6189,7 +6191,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 206--206
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Fleur, par-tie aé-
  []
 
-[27]
+[26]
 Underfull \hbox (badness 10000) in paragraph at lines 226--226
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Voir : Criste ma-
  []
@@ -6324,7 +6326,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 226--226
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Rose tré-
  []
 
-[28]
+[27]
 Underfull \hbox (badness 10000) in paragraph at lines 246--246
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ro-sier à roses
  []
@@ -6509,7 +6511,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 246--246
 []|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
  []
 
-[29]
+[28]
 Underfull \hbox (badness 10000) in paragraph at lines 264--264
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ta-ma-ri-nier de
  []
@@ -6644,10 +6646,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 248--316
 
  []
 
-[30] ("./Notes de stage - Herboristerie 2024.ind") [31
+[29] ("./Notes de stage - Herboristerie 2024.ind") [30
 
 ] (./tex/references.tex)
-[32] 
+[31] 
 enddocument/afterlastpage: lastpage setting LastPage.
 ("./Notes de stage - Herboristerie 2024.aux")
  ***********
@@ -6665,16 +6667,16 @@ as not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 106842 strings out of 477259
+ 106897 strings out of 477259
  381831,5906145 words of node,token memory allocated
- 8614 words of node memory still in use:
-   33 hlist, 2 vlist, 15 rule, 284 glue, 4 kern, 1 penalty, 2 glyph, 2067 attrib
-ute, 125 glue_spec, 360 attribute_list, 2 write, 24 pdf_literal, 70 pdf_action, 
+ 8494 words of node memory still in use:
+   33 hlist, 2 vlist, 15 rule, 276 glue, 4 kern, 1 penalty, 2 glyph, 2039 attrib
+ute, 125 glue_spec, 356 attribute_list, 2 write, 24 pdf_literal, 70 pdf_action, 
 24 pdf_colorstack nodes
-   avail lists: 1:57,2:26654,3:38528,4:648,5:712,6:281,7:6438,8:8,9:1766,10:16,1
-1:465
- 124270 multiletter control sequences out of 65536+600000
- 191 fonts using 29497127 bytes
+   avail lists: 1:57,2:26980,3:38528,4:670,5:716,6:250,7:6416,8:8,9:1814,10:15,1
+1:400
+ 124305 multiletter control sequences out of 65536+600000
+ 191 fonts using 29497767 bytes
  116i,17n,128p,2862b,2709s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreschola-bold.otf><
 C:/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreschola-italic.otf>
@@ -6685,10 +6687,10 @@ tex-gyre/texgyreschola-bold.otf><C:/Program Files/MiKTeX/fonts/opentype/public/t
 ex-gyre-math/texgyreschola-math.otf><C:/Program Files/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/c
 mtt8.pfb>
-Output written on Notes de stage - Herboristerie 2024.pdf (32 pages, 2025026 byt
+Output written on Notes de stage - Herboristerie 2024.pdf (31 pages, 2154118 byt
 es).
 
-PDF statistics: 1148 PDF objects out of 1200 (max. 8388607)
- 102 named destinations out of 1000 (max. 131072)
+PDF statistics: 1143 PDF objects out of 1200 (max. 8388607)
+ 99 named destinations out of 1000 (max. 131072)
  568 words of extra memory for PDF output out of 10000 (max. 100000000)
 
