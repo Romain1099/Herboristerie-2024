@@ -18,20 +18,21 @@
 \contentsline {section}{\numberline {3}Recettes}{13}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Baumes}{13}{subsection.3.1}%
 \contentsline {subsubsection}{\numberline {3.1.1}Baume à lèvres - anti-inflammatoire }{13}{subsubsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.2}Onguent}{14}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Huile}{14}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Tisanes}{14}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}Cuisine}{14}{subsection.3.5}%
-\contentsline {subsection}{\numberline {3.6}Vinaigres}{14}{subsection.3.6}%
-\contentsline {subsubsection}{\numberline {3.6.1}Vinaigre d'origan }{14}{subsubsection.3.6.1}%
-\contentsline {section}{\numberline {4}Utilisations médicinales}{15}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Saignements}{15}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Migraines}{15}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Douleurs de règles}{15}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Brulûres}{15}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Irritations}{15}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6}Coupures}{15}{subsection.4.6}%
-\contentsline {subsection}{\numberline {4.7}Ballonnements}{15}{subsection.4.7}%
-\contentsline {section}{\numberline {5}Liste des 148}{16}{section.5}%
-\contentsline {section}{Index des termes}{30}{section*.3}%
-\contentsline {section}{Références}{31}{section*.5}%
+\contentsline {subsubsection}{\numberline {3.1.2}Baume pour la lignée féminine }{14}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}Cuisine}{14}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Onguents}{14}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Huiles}{15}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Tisanes}{15}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Vinaigres}{15}{subsection.3.6}%
+\contentsline {subsubsection}{\numberline {3.6.1}Vinaigre d'origan }{15}{subsubsection.3.6.1}%
+\contentsline {section}{\numberline {4}Utilisations médicinales}{16}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Saignements}{16}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Migraines}{16}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Douleurs de règles}{16}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Brulûres}{16}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Irritations}{16}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Coupures}{16}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Ballonnements}{16}{subsection.4.7}%
+\contentsline {section}{\numberline {5}Liste des 148}{17}{section.5}%
+\contentsline {section}{Index des termes}{31}{section*.3}%
+\contentsline {section}{Références}{32}{section*.5}%
