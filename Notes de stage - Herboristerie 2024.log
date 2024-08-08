@@ -1,8 +1,13 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10) (format=lualatex 2024.7.16)  8 AUG 2024 23:47
  system commands enabled.
+=======
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.8.8)  8 AUG 2024 11:30
+ restricted system commands enabled.
+>>>>>>> Stashed changes
 =======
 This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.8.8)  8 AUG 2024 11:30
  restricted system commands enabled.
@@ -3127,6 +3132,7 @@ Package hyperref Info: Link coloring ON on input line 267.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 \openout8 = Notes de stage - Herboristerie 2024.out
 LaTeX Font Info:    Redeclaring math symbol \iintop on input line 267.
 LaTeX Font Info:    Redeclaring math symbol \iiintop on input line 267.
@@ -3135,6 +3141,8 @@ LaTeX Font Info:    Redeclaring math symbol \oiiintop on input line 267.
 LaTeX Font Info:    Redeclaring math accent \widehat on input line 267.
 LaTeX Font Info:    Redeclaring math accent \widetilde on input line 267.
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -3221,6 +3229,7 @@ your preamble.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/translations/dicts/trans
 lations-basic-dictionary-french.trsl
@@ -3246,6 +3255,8 @@ Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: french babel package is loaded.
 Package caption Info: float package is loaded.
@@ -3259,11 +3270,14 @@ Package french.ldf Info: Setting StandardEnumerateEnv=true for
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 (french.ldf)             reported on input line 267.
 LaTeX Info: Redefining \up on input line 267.
 \Etoc@tf=\read13
 
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -3280,6 +3294,9 @@ LaTeX Info: Redefining \up on input line 112.
 \enitdp@tabularnotes*=\count576
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -3295,9 +3312,12 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 (Font)              scaled to size 7.35999pt on input line 287.
 \tf@toc=\write9
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -3313,6 +3333,9 @@ luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -3326,10 +3349,13 @@ Missing character: There is no ] (U+005D) in font nullfont!
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 {C:/Users/Utilisateur/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 (./tex/divers/remerciements.tex) [2] (./tex/transformations.tex
 (./tex/transformations/alcoolature.tex
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -3364,6 +3390,9 @@ See the caption package documentation for explanation.
 (./tex/transformations.tex (./tex/transformations/alcoolature.tex
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -3400,8 +3429,13 @@ File: bc-fleur.mps Graphic file (type mps)
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
 <Images/preparations/couper_plantes.jpg, id=233, 534.798pt x 425.1885pt>
+=======
+(C:/Users/Elève/AppData/Local/Programs/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
+<Images/preparations/couper_plantes.jpg, id=224, 534.798pt x 425.1885pt>
+>>>>>>> Stashed changes
 =======
 (C:/Users/Elève/AppData/Local/Programs/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
 <Images/preparations/couper_plantes.jpg, id=224, 534.798pt x 425.1885pt>
@@ -3461,9 +3495,12 @@ File: bc-fleur.mps Graphic file (type mps)
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
 Underfull \hbox (badness 10000) in paragraph at lines 83--83
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -3479,9 +3516,12 @@ File: bc-fleur.mps Graphic file (type mps)
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
 Underfull \hbox (badness 10000) in paragraph at lines 83--83
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -3575,6 +3615,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--43
 
 File: bc-fleur.mps Graphic file (type mps)
 [MP to PDF]
+<<<<<<< Updated upstream
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
 File: bc-outil.mps Graphic file (type mps)
 
@@ -3643,12 +3684,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--24
 =======
 (C:/Users/Elève/AppData/Local/Programs/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
 >>>>>>> Stashed changes
+=======
+(C:/Users/Elève/AppData/Local/Programs/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
+>>>>>>> Stashed changes
 Underfull \hbox (badness 10000) in paragraph at lines 24--25
 
  []
 
 File: bc-fleur.mps Graphic file (type mps)
 [MP to PDF]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
@@ -3698,6 +3743,8 @@ File: bc-fleur.mps Graphic file (type mps)
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 (C:/Users/Elève/AppData/Local/Programs/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
 File: bc-fleur.mps Graphic file (type mps)
 
@@ -3707,6 +3754,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--38
 
  []
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -3722,6 +3770,8 @@ Package mdframed Info: mdframed detected package amsthm
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 
 
 [4
@@ -3731,6 +3781,9 @@ Missing character: There is no ] (U+005D) in font nullfont!
 ]
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -3743,7 +3796,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--45
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ) [8
+=======
+))
+
+[5
+>>>>>>> Stashed changes
 =======
 ))
 
@@ -3774,6 +3833,7 @@ File: bc-fleur.mps Graphic file (type mps)
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
 File: bc-fleur.mps Graphic file (type mps)
 
@@ -3781,6 +3841,8 @@ File: bc-fleur.mps Graphic file (type mps)
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
 Underfull \hbox (badness 10000) in paragraph at lines 30--30
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -3843,9 +3905,12 @@ File: bc-fleur.mps Graphic file (type mps)
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
 Underfull \hbox (badness 10000) in paragraph at lines 45--45
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -3886,9 +3951,12 @@ File: bc-fleur.mps Graphic file (type mps)
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
 File: bc-plume.mps Graphic file (type mps)
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -3999,6 +4067,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--7
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 (./tex/recettes/baume_a_levre.tex
 File: bc-oeil.mps Graphic file (type mps)
  [MP to PDF]
@@ -4010,6 +4079,8 @@ Package mdframed Info: mdframed inside a box
  mdframed uses option nobreak mdframed on input line 50.
 File: bc-outil.mps Graphic file (type mps)
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -4082,6 +4153,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--17
 
  []
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -4161,6 +4233,8 @@ Package mdframed Info: mdframed inside a box
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 )
 
 [8
@@ -4171,6 +4245,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -6200,6 +6275,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 248--316
 [9] ("./Notes de stage - Herboristerie 2024.ind")
 
 >>>>>>> Stashed changes
+=======
+(./tex/medecine/coupures.tex))
+
+[9] ("./Notes de stage - Herboristerie 2024.ind")
+
+>>>>>>> Stashed changes
 [10
 
 ] (./tex/references.tex)
@@ -6207,6 +6288,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 248--316
 [11] 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -6229,6 +6313,7 @@ as not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -6263,6 +6348,8 @@ PDF statistics: 1143 PDF objects out of 1200 (max. 8388607)
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
  80319 strings out of 475910
  125176,3417909 words of node,token memory allocated
  2743 words of node memory still in use:
@@ -6290,6 +6377,9 @@ PDF statistics: 325 PDF objects out of 1000 (max. 8388607)
  534 words of extra memory for PDF output out of 10000 (max. 100000000)
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
