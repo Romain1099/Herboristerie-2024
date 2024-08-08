@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10) (format=lualatex 2024.7.16)  8 AUG 2024 17:34
+This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10) (format=lualatex 2024.7.16)  8 AUG 2024 22:51
  system commands enabled.
 **"Notes de stage - Herboristerie 2024.tex"
 ("./Notes de stage - Herboristerie 2024.tex"
@@ -3849,44 +3849,44 @@ Writing index file "Notes de stage - Herboristerie 2024".idx
 ("./Notes de stage - Herboristerie 2024.aux")
 \openout1 = Notes de stage - Herboristerie 2024.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 189.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 267.
+LaTeX Font Info:    ... okay on input line 267.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 267.
+LaTeX Font Info:    ... okay on input line 267.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 267.
+LaTeX Font Info:    ... okay on input line 267.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 267.
+LaTeX Font Info:    ... okay on input line 267.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 267.
+LaTeX Font Info:    ... okay on input line 267.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 267.
+LaTeX Font Info:    ... okay on input line 267.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 267.
+LaTeX Font Info:    ... okay on input line 267.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 267.
+LaTeX Font Info:    ... okay on input line 267.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 267.
+LaTeX Font Info:    ... okay on input line 267.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 267.
+LaTeX Font Info:    ... okay on input line 267.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 267.
+LaTeX Font Info:    ... okay on input line 267.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 267.
 LaTeX Font Info:    Trying to load font information for FMS+futm on input line 
-189.
+267.
 
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/fourier/fmsfutm.fd
 File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
 )
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 189.
+LaTeX Font Info:    ... okay on input line 267.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 267.
 LaTeX Font Info:    Trying to load font information for FMX+futm on input line 
-189.
+267.
 
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/fourier/fmxfutm.fd
 File: fmxfutm.fd futm-extension
 )
-LaTeX Font Info:    ... okay on input line 189.
+LaTeX Font Info:    ... okay on input line 267.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -3922,26 +3922,26 @@ LaTeX Font Info:    ... okay on input line 189.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 189.
+Package hyperref Info: Link coloring ON on input line 267.
 ("./Notes de stage - Herboristerie 2024.out")
 ("./Notes de stage - Herboristerie 2024.out")
 \@outlinefile=\write8
 
 \openout8 = Notes de stage - Herboristerie 2024.out
-LaTeX Font Info:    Redeclaring math symbol \iintop on input line 189.
-LaTeX Font Info:    Redeclaring math symbol \iiintop on input line 189.
-LaTeX Font Info:    Redeclaring math symbol \oiintop on input line 189.
-LaTeX Font Info:    Redeclaring math symbol \oiiintop on input line 189.
-LaTeX Font Info:    Redeclaring math accent \widehat on input line 189.
-LaTeX Font Info:    Redeclaring math accent \widetilde on input line 189.
+LaTeX Font Info:    Redeclaring math symbol \iintop on input line 267.
+LaTeX Font Info:    Redeclaring math symbol \iiintop on input line 267.
+LaTeX Font Info:    Redeclaring math symbol \oiintop on input line 267.
+LaTeX Font Info:    Redeclaring math symbol \oiiintop on input line 267.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 267.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 267.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/phv/m/n on input line 189.
+(Font)                  OT1/cmss/m/n --> TU/phv/m/n on input line 267.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/phv/b/n on input line 189.
+(Font)                  OT1/cmss/bx/n --> TU/phv/b/n on input line 267.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 189.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 267.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 189.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 267.
 
 
 Package unicode-math Warning: Using \overbracket and \underbracket from
@@ -3997,7 +3997,7 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
 your preamble.
- on input line 189.
+ on input line 267.
 
 
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/translations/dicts/trans
@@ -4006,7 +4006,7 @@ File: translations-basic-dictionary-french.trsl (french translation file `trans
 lations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `french'. on input line 189.
+or `french'. on input line 267.
 \c__nicematrix_shift_Ldots_last_row_dim=\dimen529
 \c__nicematrix_shift_exterior_Vdots_dim=\dimen530
 \c__nicematrix_innersep_middle_dim=\dimen531
@@ -4025,21 +4025,21 @@ Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package french.ldf Info: Setting StandardItemizeEnv=true for
 (french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 189.
+(french.ldf)             reported on input line 267.
 Package french.ldf Info: Setting StandardEnumerateEnv=true for
 (french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 189.
-LaTeX Info: Redefining \up on input line 189.
+(french.ldf)             reported on input line 267.
+LaTeX Info: Redefining \up on input line 267.
 \Etoc@tf=\read13
 
 contour: Using 16 copies for `\textcolor {black}{\Large  $\symcal {C}\symcal {R
-}$}' on input line 209.
+}$}' on input line 287.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 13.24796pt on input line 209.
+(Font)              scaled to size 13.24796pt on input line 287.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 209.
+(Font)              scaled to size 9.19998pt on input line 287.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 209.
+(Font)              scaled to size 7.35999pt on input line 287.
 \tf@toc=\write9
 
 \openout9 = Notes de stage - Herboristerie 2024.toc
@@ -4088,7 +4088,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--41
 File: bc-fleur.mps Graphic file (type mps)
 [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
-<Images/preparations/couper_plantes.jpg, id=223, 534.798pt x 425.1885pt>
+<Images/preparations/couper_plantes.jpg, id=233, 534.798pt x 425.1885pt>
 File: Images/preparations/couper_plantes.jpg Graphic file (type jpg)
 <use Images/preparations/couper_plantes.jpg>
 Package luatex.def Info: Images/preparations/couper_plantes.jpg  used on input 
@@ -4100,7 +4100,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 52.
 See the caption package documentation for explanation.
 
-<Images/preparations/alcoolature_coquelicot.jpg, id=224, 1505.625pt x 2007.5pt>
+<Images/preparations/alcoolature_coquelicot.jpg, id=234, 1505.625pt x 2007.5pt>
 
 File: Images/preparations/alcoolature_coquelicot.jpg Graphic file (type jpg)
 <use Images/preparations/alcoolature_coquelicot.jpg>
@@ -4216,7 +4216,7 @@ File: bc-outil.mps Graphic file (type mps)
 
 [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-outil.mps)
-<Images/preparations/presentation_infusion_sacrees_plantes_6.jpg, id=239, 2055.
+<Images/preparations/presentation_infusion_sacrees_plantes_6.jpg, id=249, 2055.
 68pt x 1541.76pt>
 File: Images/preparations/presentation_infusion_sacrees_plantes_6.jpg Graphic f
 ile (type jpg)
@@ -4239,47 +4239,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--4
 Missing character: There is no ] (U+005D) in font nullfont!
 <./Images/preparations/presentation_infusion_sacrees_plantes_6.jpg>]
 (./tex/transformations/solvant_vinaigre.tex
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-
- []
-
-File: bc-fleur.mps Graphic file (type mps)
-[MP to PDF]
-(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
-Underfull \hbox (badness 10000) in paragraph at lines 23--23
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
 
  []
 
 File: bc-fleur.mps Graphic file (type mps)
 [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
-<Images/preparations/vinaigre_plantes_internet.jpg, id=250, 1796.7125pt x 1197.
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+File: bc-fleur.mps Graphic file (type mps)
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
+<Images/preparations/vinaigre_plantes_internet.jpg, id=260, 1796.7125pt x 1197.
 47375pt>
 File: Images/preparations/vinaigre_plantes_internet.jpg Graphic file (type jpg)
 
 <use Images/preparations/vinaigre_plantes_internet.jpg>
 Package luatex.def Info: Images/preparations/vinaigre_plantes_internet.jpg  use
-d on input line 36.
+d on input line 37.
 (luatex.def)             Requested size: 155.35535pt x 103.52888pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 36.
+(caption)                particular \caption on input line 37.
 See the caption package documentation for explanation.
 
 File: bc-crayon.mps Graphic file (type mps)
@@ -4287,7 +4287,7 @@ File: bc-crayon.mps Graphic file (type mps)
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-crayon.mps)
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 48.
+(mdframed)              on input line 49.
 )
 [7
 Missing character: There is no ] (U+005D) in font nullfont!
@@ -4348,7 +4348,7 @@ File: bc-fleur.mps Graphic file (type mps)
 
 [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
-Underfull \hbox (badness 10000) in paragraph at lines 29--29
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
 
  []
 
@@ -4358,15 +4358,15 @@ File: bc-calendrier.mps Graphic file (type mps)
 )
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 29.
+(mdframed)              on input line 30.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 29.
+ mdframed uses option nobreak mdframed on input line 30.
 File: bc-outil.mps Graphic file (type mps)
  [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-outil.mps)
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 29.
+(mdframed)              on input line 30.
 File: bc-plume.mps Graphic file (type mps)
 
 [MP to PDF]
@@ -4376,17 +4376,17 @@ File: bc-plume.mps Graphic file (type mps)
 [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-plume.mps)
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 29.
-<Images/plantes_nature/sauge_de_jerusalem.jpg, id=265, 1204.5pt x 1606.0pt>
+ mdframed uses option nobreak mdframed on input line 30.
+<Images/plantes_nature/sauge_de_jerusalem.jpg, id=275, 1204.5pt x 1606.0pt>
 File: Images/plantes_nature/sauge_de_jerusalem.jpg Graphic file (type jpg)
 <use Images/plantes_nature/sauge_de_jerusalem.jpg>
 Package luatex.def Info: Images/plantes_nature/sauge_de_jerusalem.jpg  used on 
-input line 29.
+input line 30.
 (luatex.def)             Requested size: 168.4384pt x 224.56891pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 29.
+(caption)                particular \caption on input line 30.
 See the caption package documentation for explanation.
 
 File: bc-crayon.mps Graphic file (type mps)
@@ -4394,9 +4394,9 @@ File: bc-crayon.mps Graphic file (type mps)
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-crayon.mps)
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 29.
+(mdframed)              on input line 30.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 29.
+ mdframed uses option nobreak mdframed on input line 30.
 )
 (./tex/botanique/solanaceae.tex) (./tex/botanique/asteraceae.tex
 File: bc-fleur.mps Graphic file (type mps)
@@ -4458,7 +4458,7 @@ File: bc-crayon.mps Graphic file (type mps)
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-crayon.mps)
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 45.
-<Images/plantes_nature/achillee_millefeuille_wiki.jpeg, id=268, 803.0pt x 1069.
+<Images/plantes_nature/achillee_millefeuille_wiki.jpeg, id=278, 803.0pt x 1069.
 9975pt>
 File: Images/plantes_nature/achillee_millefeuille_wiki.jpeg Graphic file (type 
 jpg)
@@ -4563,14 +4563,83 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--17
 
  []
 
-) [14
+(./tex/recettes/vinaigres.tex
+File: bc-oeil.mps Graphic file (type mps)
+ [MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-oeil.mps)
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 40.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 40.
+File: bc-outil.mps Graphic file (type mps)
+
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-outil.mps)
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 40.
+
+Underfull \hbox (badness 7168) in paragraph at lines 40--40
+[]\TU/TeXGyreSchola(0)/m/n/10.95 Un bo-cal adapté à la taille de la
+ []
+
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 40.
+File: bc-calendrier.mps Graphic file (type mps)
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-calendrier.mps
+)
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 40.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 40.
+File: bc-book.mps Graphic file (type mps)
+ [MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-book.mps)
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 40.
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+
+ []
+
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 40.
+File: Images/preparations/vinaigre_plantes_internet.jpg Graphic file (type jpg)
+
+<use Images/preparations/vinaigre_plantes_internet.jpg>
+Package luatex.def Info: Images/preparations/vinaigre_plantes_internet.jpg  use
+d on input line 40.
+(luatex.def)             Requested size: 168.4384pt x 112.24461pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 40.
+See the caption package documentation for explanation.
+
+File: bc-crayon.mps Graphic file (type mps)
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-crayon.mps)
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 40.
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+
+ []
+
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 40.
+)) [14
 Missing character: There is no ] (U+005D) in font nullfont!
-] (./tex/medecine.tex
+] [15] (./tex/medecine.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-(./tex/medecine/coupures.tex)) [15] (./Ressources/liste_148.tex
+(./tex/medecine/coupures.tex)) [16] (./Ressources/liste_148.tex
 Underfull \hbox (badness 10000) in paragraph at lines 24--24
 \TU/TeXGyreSchola(0)/m/n/10.95 Willd. et autres
  []
@@ -4735,7 +4804,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--24
 []|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
  []
 
-[16]
+[17]
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 An-gé-lique.An-gé-
  []
@@ -4870,7 +4939,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--40
 []|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
  []
 
-[17]
+[18]
 Underfull \hbox (badness 10000) in paragraph at lines 59--59
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Bal-sa-mite odo-
  []
@@ -5005,7 +5074,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--59
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ca-mo-mille vul-
  []
 
-[18]
+[19]
 Underfull \hbox (badness 10000) in paragraph at lines 79--79
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Can-ne-lier de
  []
@@ -5215,7 +5284,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--79
 []|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
  []
 
-[19]
+[20]
 Underfull \hbox (badness 10000) in paragraph at lines 99--99
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Voir : Courge
  []
@@ -5320,7 +5389,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 99--99
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Eleu-the-ro-coc-cus
  []
 
-[20]
+[21]
 Underfull \hbox (badness 5533) in paragraph at lines 114--114
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Ar-te-mi-sia dra-cun-
  []
@@ -5420,7 +5489,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--114
 []|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
  []
 
-[21]
+[22]
 Underfull \hbox (badness 10000) in paragraph at lines 133--133
 []|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
  []
@@ -5545,7 +5614,7 @@ Underfull \hbox (badness 2903) in paragraph at lines 133--133
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Gomme de ster-
  []
 
-[22]
+[23]
 Underfull \hbox (badness 10000) in paragraph at lines 153--153
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Griot-tier.Ce-
  []
@@ -5715,7 +5784,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 153--153
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Fleur, som-mité
  []
 
-[23]
+[24]
 Underfull \hbox (badness 10000) in paragraph at lines 167--167
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 La-vande stoe-
  []
@@ -5840,7 +5909,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 167--167
 []|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
  []
 
-[24]
+[25]
 Underfull \hbox (badness 10000) in paragraph at lines 186--186
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Mar-jo-laine.Ori-
  []
@@ -6000,7 +6069,7 @@ Underfull \hbox (badness 7486) in paragraph at lines 186--186
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Myr-tus com-mu-nis
  []
 
-[25]
+[26]
 Underfull \hbox (badness 10000) in paragraph at lines 206--206
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Myr-tille.Ai-relle
  []
@@ -6120,7 +6189,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 206--206
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Fleur, par-tie aé-
  []
 
-[26]
+[27]
 Underfull \hbox (badness 10000) in paragraph at lines 226--226
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Voir : Criste ma-
  []
@@ -6255,7 +6324,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 226--226
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Rose tré-
  []
 
-[27]
+[28]
 Underfull \hbox (badness 10000) in paragraph at lines 246--246
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ro-sier à roses
  []
@@ -6440,7 +6509,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 246--246
 []|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
  []
 
-[28]
+[29]
 Underfull \hbox (badness 10000) in paragraph at lines 264--264
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ta-ma-ri-nier de
  []
@@ -6571,14 +6640,14 @@ Underfull \hbox (badness 1931) in paragraph at lines 264--264
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 248--238
+Underfull \hbox (badness 10000) in paragraph at lines 248--316
 
  []
 
-[29] ("./Notes de stage - Herboristerie 2024.ind") [30
+[30] ("./Notes de stage - Herboristerie 2024.ind") [31
 
 ] (./tex/references.tex)
-[31] 
+[32] 
 enddocument/afterlastpage: lastpage setting LastPage.
 ("./Notes de stage - Herboristerie 2024.aux")
  ***********
@@ -6596,16 +6665,16 @@ as not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 106709 strings out of 477259
- 305416,5906145 words of node,token memory allocated
- 8464 words of node memory still in use:
-   33 hlist, 2 vlist, 15 rule, 274 glue, 4 kern, 1 penalty, 2 glyph, 2032 attrib
-ute, 125 glue_spec, 355 attribute_list, 2 write, 24 pdf_literal, 70 pdf_action, 
+ 106842 strings out of 477259
+ 381831,5906145 words of node,token memory allocated
+ 8614 words of node memory still in use:
+   33 hlist, 2 vlist, 15 rule, 284 glue, 4 kern, 1 penalty, 2 glyph, 2067 attrib
+ute, 125 glue_spec, 360 attribute_list, 2 write, 24 pdf_literal, 70 pdf_action, 
 24 pdf_colorstack nodes
-   avail lists: 1:56,2:26692,3:38528,4:648,5:672,6:238,7:6418,8:8,9:1766,10:15,1
-1:395
- 124184 multiletter control sequences out of 65536+600000
- 191 fonts using 29496487 bytes
+   avail lists: 1:57,2:26654,3:38528,4:648,5:712,6:281,7:6438,8:8,9:1766,10:16,1
+1:465
+ 124270 multiletter control sequences out of 65536+600000
+ 191 fonts using 29497127 bytes
  116i,17n,128p,2862b,2709s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreschola-bold.otf><
 C:/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreschola-italic.otf>
@@ -6616,10 +6685,10 @@ tex-gyre/texgyreschola-bold.otf><C:/Program Files/MiKTeX/fonts/opentype/public/t
 ex-gyre-math/texgyreschola-math.otf><C:/Program Files/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/c
 mtt8.pfb>
-Output written on Notes de stage - Herboristerie 2024.pdf (31 pages, 2010161 byt
+Output written on Notes de stage - Herboristerie 2024.pdf (32 pages, 2025014 byt
 es).
 
-PDF statistics: 1123 PDF objects out of 1200 (max. 8388607)
- 93 named destinations out of 1000 (max. 131072)
- 542 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 1148 PDF objects out of 1200 (max. 8388607)
+ 102 named destinations out of 1000 (max. 131072)
+ 568 words of extra memory for PDF output out of 10000 (max. 100000000)
 
