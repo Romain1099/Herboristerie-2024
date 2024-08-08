@@ -1,7 +1,7 @@
-This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10) (format=lualatex 2024.7.16)  8 AUG 2024 12:57
+This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10) (format=lualatex 2024.7.16)  8 AUG 2024 14:43
  system commands enabled.
-**"Notes de stage - Herboristerie 2024.tex"
-("./Notes de stage - Herboristerie 2024.tex"
+**liste_148.tex
+(./liste_148.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
 Lua module: luaotfload 2023-08-31 3.26 Lua based OpenType font support
@@ -3829,63 +3829,64 @@ Package: rdexo 2023/12/12 rdexo.sty
 use_rdexo_rdcrep.sty"
 Package: bfcours-use_rdexo_rdcrep 29/06/2024 - Cas d'utilisation de rdexo/crep 
 etc pour bfcours
-)) ("C:/Program Files/MiKTeX/tex/latex/cite/cite.sty"
-LaTeX Info: Redefining \cite on input line 302.
-LaTeX Info: Redefining \nocite on input line 332.
-Package: cite 2015/02/27  v 5.5
-)
-(./tex/figures.tex) ("C:/Program Files/MiKTeX/tex/latex/imakeidx/imakeidx.sty"
-Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
-nous mode
-
-("C:/Program Files/MiKTeX/tex/generic/iftex/ifxetex.sty"
-Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 ))
-\"Notes de stage - Herboristerie 2024"@idxfile=\write7
+("C:/Program Files/MiKTeX/tex/latex/pgfplots/pgfplotstable.sty"
+("C:/Program Files/MiKTeX/tex/generic/pgfplots/pgfplots.revision.tex")
+Package: pgfplotstable 2021/05/15 v1.18.1 Table typesetting and Pretty-printing
+ (1.18.1)
 
-\openout7 = Notes de stage - Herboristerie 2024.idx
+("C:/Program Files/MiKTeX/tex/generic/pgfplots/numtable/pgfplotstable.code.tex"
 
-Writing index file "Notes de stage - Herboristerie 2024".idx
-No file "Notes de stage - Herboristerie 2024".aux.
+("C:/Program Files/MiKTeX/tex/generic/pgfplots/numtable/pgfplotstable.coltype.c
+ode.tex")))
+\dtldb@ressources=\toks192
+\dtlkeys@ressources=\toks193
+\dtlrows@ressources=\count716
+\dtlcols@ressources=\count717
+\c@rowcounterplantslist=\count718
+\c@rowtabcounter=\count719
+\c@pagetabcounter=\count720
+ (./liste_148.aux)
+\openout1 = liste_148.aux
 
-\openout1 = Notes de stage - Herboristerie 2024.aux
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 117.
-LaTeX Font Info:    ... okay on input line 117.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 117.
-LaTeX Font Info:    ... okay on input line 117.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 117.
-LaTeX Font Info:    ... okay on input line 117.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 117.
-LaTeX Font Info:    ... okay on input line 117.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 117.
-LaTeX Font Info:    ... okay on input line 117.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 117.
-LaTeX Font Info:    ... okay on input line 117.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 117.
-LaTeX Font Info:    ... okay on input line 117.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 117.
-LaTeX Font Info:    ... okay on input line 117.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 117.
-LaTeX Font Info:    ... okay on input line 117.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 117.
-LaTeX Font Info:    ... okay on input line 117.
-LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 117.
-LaTeX Font Info:    ... okay on input line 117.
-LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 117.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 28.
 LaTeX Font Info:    Trying to load font information for FMS+futm on input line 
-117.
+28.
+
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/fourier/fmsfutm.fd
 File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
 )
-LaTeX Font Info:    ... okay on input line 117.
-LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 28.
 LaTeX Font Info:    Trying to load font information for FMX+futm on input line 
-117.
+28.
 
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/fourier/fmxfutm.fd
 File: fmxfutm.fd futm-extension
 )
-LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    ... okay on input line 28.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -3921,24 +3922,26 @@ LaTeX Font Info:    ... okay on input line 117.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 117.
-\@outlinefile=\write8
+Package hyperref Info: Link coloring ON on input line 28.
+(./liste_148.out) (./liste_148.out)
+\@outlinefile=\write7
 
-\openout8 = Notes de stage - Herboristerie 2024.out
-LaTeX Font Info:    Redeclaring math symbol \iintop on input line 117.
-LaTeX Font Info:    Redeclaring math symbol \iiintop on input line 117.
-LaTeX Font Info:    Redeclaring math symbol \oiintop on input line 117.
-LaTeX Font Info:    Redeclaring math symbol \oiiintop on input line 117.
-LaTeX Font Info:    Redeclaring math accent \widehat on input line 117.
-LaTeX Font Info:    Redeclaring math accent \widetilde on input line 117.
+\openout7 = liste_148.out
+LaTeX Font Info:    Redeclaring math symbol \iintop on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \iiintop on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \oiintop on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \oiiintop on input line 28.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 28.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/phv/m/n on input line 117.
+(Font)                  OT1/cmss/m/n --> TU/phv/m/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/phv/b/n on input line 117.
+(Font)                  OT1/cmss/bx/n --> TU/phv/b/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 117.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 117.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 28.
+
 
 Package unicode-math Warning: Using \overbracket and \underbracket from
 (unicode-math)                `mathtools' package.
@@ -3959,17 +3962,17 @@ Package unicode-math Warning: I'm going to overwrite the following commands
 
 ("C:/Program Files/MiKTeX/tex/context/base/mkii/supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count716
+\scratchcounter=\count721
 \scratchdimen=\dimen527
 \scratchbox=\box286
-\nofMPsegments=\count717
-\nofMParguments=\count718
-\everyMPshowfont=\toks192
-\MPscratchCnt=\count719
+\nofMPsegments=\count722
+\nofMParguments=\count723
+\everyMPshowfont=\toks194
+\MPscratchCnt=\count724
 \MPscratchDim=\dimen528
-\MPnumerator=\count720
-\makeMPintoPDFobject=\count721
-\everyMPtoPDFconversion=\toks193
+\MPnumerator=\count725
+\makeMPintoPDFobject=\count726
+\everyMPtoPDFconversion=\toks195
 ) ("C:/Program Files/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -3978,7 +3981,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 ("C:/Program Files/MiKTeX/tex/latex/00miktex/epstopdf-sys.cfg"
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@lstlisting=\count722
+\c@lstlisting=\count727
 
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
@@ -3993,7 +3996,7 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
 your preamble.
- on input line 117.
+ on input line 28.
 
 
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/translations/dicts/trans
@@ -4002,14 +4005,14 @@ File: translations-basic-dictionary-french.trsl (french translation file `trans
 lations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `french'. on input line 117.
+or `french'. on input line 28.
 \c__nicematrix_shift_Ldots_last_row_dim=\dimen529
 \c__nicematrix_shift_exterior_Vdots_dim=\dimen530
 \c__nicematrix_innersep_middle_dim=\dimen531
-\c@tabularnotesi=\count723
-\enitdp@tabularnotes=\count724
-\c@tabularnotes*i=\count725
-\enitdp@tabularnotes*=\count726
+\c@tabularnotesi=\count728
+\enitdp@tabularnotes=\count729
+\c@tabularnotes*i=\count730
+\enitdp@tabularnotes*=\count731
 
 ("C:/Program Files/MiKTeX/tex/latex/ninecolors/ninecolors.sty"
 Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
@@ -4021,295 +4024,2053 @@ Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package french.ldf Info: Setting StandardItemizeEnv=true for
 (french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 117.
+(french.ldf)             reported on input line 28.
 Package french.ldf Info: Setting StandardEnumerateEnv=true for
 (french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 117.
-LaTeX Info: Redefining \up on input line 117.
+(french.ldf)             reported on input line 28.
+LaTeX Info: Redefining \up on input line 28.
 
-No file "Notes de stage - Herboristerie 2024".toc.
-contour: Using 16 copies for `\textcolor {black}{\Large  $\symcal {C}\symcal {R
-}$}' on input line 137.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 13.24796pt on input line 137.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 137.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 137.
-\tf@toc=\write9
+No file liste_148.toc.
 
-\openout9 = Notes de stage - Herboristerie 2024.toc
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\TU/TeXGyreSchola(0)/m/n/10.95 Willd. et autres
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\TU/TeXGyreSchola(0)/m/n/10.95 es-pèces d’aca-cias
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ex-su-da-tion gom-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\TU/TeXGyreSchola(0)/m/n/10.95 meuse = gomme
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Apium gra-veo-lens
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Achil-lée mil-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\TU/TeXGyreSchola(0)/b/n/10.95 le-feuille.Mil-le-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Achil-lea mil-le-fo-
+ []
+
+
+Underfull \hbox (badness 3179) in paragraph at lines 54--54
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ge-li-dium sp., Eu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ca-rum cop-ti-cum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\TU/TeXGyreSchola(0)/m/n/10.95 Psy-cho-tis ajo-wan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Al-ké-kenge.Co-
+ []
+
+
+Underfull \hbox (badness 1946) in paragraph at lines 54--54
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Phy-sa-lis al-ke-kengi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Si-sym-brium al-lia-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Aloès des Bar-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Aloe bar-ba-den-sis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\TU/TeXGyreSchola(0)/m/n/10.95 Mill.(= Aloe vera
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Pru-nus dul-cis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Graine, graine
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Hi-bis-cus abel-mo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ane-thum gra-veo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\TU/TeXGyreSchola(0)/m/n/10.95 lens L.(= Peu-ce-
+ []
+
+
+Underfull \hbox (badness 6252) in paragraph at lines 54--54
+\TU/TeXGyreSchola(0)/m/n/10.95 da-num gra-veo-lens
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
 [1
 
-
-Missing character: There is no ] (U+005D) in font nullfont!
 {C:/Users/Utilisateur/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-<Images/plantes_nature/coquelicot.jpg, id=53, 1505.625pt x 2007.5pt>
-File: Images/plantes_nature/coquelicot.jpg Graphic file (type jpg)
-<use Images/plantes_nature/coquelicot.jpg>
-Package luatex.def Info: Images/plantes_nature/coquelicot.jpg  used on input li
-ne 139.
-(luatex.def)             Requested size: 110.96616pt x 147.95229pt.
-
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 139.
-See the caption package documentation for explanation.
-
-<Images/plantes_sechees/tout.jpg, id=54, 1606.0pt x 1204.5pt>
-File: Images/plantes_sechees/tout.jpg Graphic file (type jpg)
-<use Images/plantes_sechees/tout.jpg>
-Package luatex.def Info: Images/plantes_sechees/tout.jpg  used on input line 14
-0.
-(luatex.def)             Requested size: 110.96616pt x 83.22086pt.
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 140.
-See the caption package documentation for explanation.
-
-(./tex/divers/remerciements.tex) [2<./Images/plantes_nature/coquelicot.jpg><./Im
-ages/plantes_sechees/tout.jpg>] (./tex/transformations.tex
-(./tex/transformations/alcoolature.tex
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 An-gé-lique.An-gé-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\TU/TeXGyreSchola(0)/m/n/10.95 lica L.(= Ar-chan-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-
- []
-
-Package hyperref Info: bookmark level for unknown bclogo defaults to 0 on input
- line 29.
-File: bc-crayon.mps Graphic file (type mps)
-[MP to PDF]
-(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-crayon.mps)
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 29.
-File: bc-fleur.mps Graphic file (type mps)
-
-[MP to PDF]
-(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\TU/TeXGyreSchola(0)/m/n/10.95 ge-lica of-fi-ci-na-lis
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
-
- []
-
-File: bc-fleur.mps Graphic file (type mps)
-[MP to PDF]
-(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
-<Images/preparations/couper_plantes.jpg, id=67, 534.798pt x 425.1885pt>
-File: Images/preparations/couper_plantes.jpg Graphic file (type jpg)
-<use Images/preparations/couper_plantes.jpg>
-Package luatex.def Info: Images/preparations/couper_plantes.jpg  used on input 
-line 51.
-(luatex.def)             Requested size: 88.77158pt x 70.57478pt.
-
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 51.
-See the caption package documentation for explanation.
-
-<Images/preparations/alcoolature_coquelicot.jpg, id=68, 1505.625pt x 2007.5pt>
-File: Images/preparations/alcoolature_coquelicot.jpg Graphic file (type jpg)
-<use Images/preparations/alcoolature_coquelicot.jpg>
-Package luatex.def Info: Images/preparations/alcoolature_coquelicot.jpg  used o
-n input line 52.
-(luatex.def)             Requested size: 88.77158pt x 118.36183pt.
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 52.
-See the caption package documentation for explanation.
-
-File: bc-fleur.mps Graphic file (type mps)
-[MP to PDF]
-(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
-File: bc-fleur.mps Graphic file (type mps)
-
-[MP to PDF]
-(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-
- []
-
-File: bc-fleur.mps Graphic file (type mps)
-[MP to PDF]
-(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
-
- []
-
-[3
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-<./Images/preparations/couper_plantes.jpg><./Images/preparations/alcoolature_coq
-uelicot.jpg>]) (./tex/transformations/solvant_eau.tex)
-(./tex/transformations/solvant_vinaigre.tex)
-(./tex/transformations/macerat_huileux.tex
-File: bc-fleur.mps Graphic file (type mps)
- [MP to PDF]
-(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
-
- []
-
-File: bc-fleur.mps Graphic file (type mps)
-[MP to PDF]
-(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
-
- []
-
-File: bc-fleur.mps Graphic file (type mps)
-[MP to PDF]
-(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
-File: bc-fleur.mps Graphic file (type mps)
-
-[MP to PDF]
-(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
-Underfull \hbox (badness 10000) in paragraph at lines 33--38
-
- []
-
-[4
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-]
-File: bc-crayon.mps Graphic file (type mps)
- [MP to PDF]
-(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-crayon.mps)
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 45.
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--45
-
- []
-
-)) [5
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-] (./tex/botanique.tex (./tex/botanique/introduction.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-) (./tex/botanique/lamiaceae.tex
-File: bc-fleur.mps Graphic file (type mps)
- [MP to PDF]
-(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps))
-Underfull \hbox (badness 10000) in paragraph at lines 11--6
-
- []
-
-(./tex/botanique/solanaceae.tex) (./tex/botanique/asteraceae.tex
-File: bc-fleur.mps Graphic file (type mps)
- [MP to PDF]
-(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps))
-Underfull \hbox (badness 10000) in paragraph at lines 5--12
-
- []
-
-(./tex/botanique/bracicaceae.tex)
-
-LaTeX Warning: Citation `laporte2023' on page 6 undefined on input line 16.
-
-) [6
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-] (./tex/recettes.tex
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
-
- []
-
-(./tex/recettes/baume_a_levre.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--19
-
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-
- []
-
-File: bc-fleur.mps Graphic file (type mps)
-[MP to PDF]
-(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
-Underfull \hbox (badness 1490) in paragraph at lines 44--44
-[]\TU/TeXGyreSchola(0)/m/n/10.95 Mé-lan-ger les []\TU/TeXGyreSchola(0)/b/n/10.
-95 ma-cé-rats hui-leux[][] \TU/TeXGyreSchola(0)/m/n/10.95 dans un []\TU/TeXGyr
-eSchola(0)/b/n/10.95 cul de
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 As-pé-rule odo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
-
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ga-lium odo-ra-tum
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--50
-
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\TU/TeXGyreSchola(0)/m/n/10.95 (L.) Scop.(= As-
  []
 
-[7
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-Missing character: There is no ] (U+005D) in font nullfont!
-]
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\TU/TeXGyreSchola(0)/m/n/10.95 pe-rula odo-rata
  []
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 17--17
 
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Par-tie aé-rienne
  []
 
-) [8
-Missing character: There is no ] (U+005D) in font nullfont!
-] (./tex/medecine.tex
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 As-pic.La-vande
  []
 
-(./tex/medecine/coupures.tex)) [9] ("./Notes de stage - Herboristerie 2024.ind"
-) [10
 
-] (./tex/references.tex) [11]
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 As-tra-gale à
+ []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\TU/TeXGyreSchola(0)/b/n/10.95 gomme.Gomme
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 As-tra-ga-lus gum-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\TU/TeXGyreSchola(0)/m/n/10.95 mi-fer (La-bill.)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\TU/TeXGyreSchola(0)/m/n/10.95 et cer-taines es-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\TU/TeXGyreSchola(0)/m/n/10.95 pèces du genre
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\TU/TeXGyreSchola(0)/m/n/10.95 As-tra-ga-lus d’Asie
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ex-su-da-tion gom-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\TU/TeXGyreSchola(0)/m/n/10.95 meuse = gomme
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Au-bé-pine.Epine
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Cra-tae-gus lae-vi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\TU/TeXGyreSchola(0)/m/n/10.95 mo-no-gyna Jacq.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\TU/TeXGyreSchola(0)/m/n/10.95 (Lindm.)(= C.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\TU/TeXGyreSchola(0)/m/n/10.95 oxy-acan-thoïdes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Bal-sa-mite odo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+\TU/TeXGyreSchola(0)/b/n/10.95 rante.Menthe
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Bal-sa-mita ma-jor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+\TU/TeXGyreSchola(0)/m/n/10.95 Desf.(= Chry-san-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Feuille, som-mité
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Bar-dane
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+\TU/TeXGyreSchola(0)/m/n/10.95 Bernh.)(= Lappa
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ba-si-lic.Ba-si-lic
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 89--89
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Oci-mum ba-si-li-cum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 3701) in paragraph at lines 89--89
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Bau-mier de Co-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+\TU/TeXGyreSchola(0)/b/n/10.95 pahu.Baume de
+ []
+
+
+Underfull \hbox (badness 7362) in paragraph at lines 89--89
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Co-pai-fera of-fi-ci-na-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+\TU/TeXGyreSchola(0)/m/n/10.95 Desf.,C. lans-dor-fii
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Oléo-résine dite
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Sta-chys of-fi-ci-na-lis
+ []
+
+
+Underfull \hbox (badness 6691) in paragraph at lines 89--89
+\TU/TeXGyreSchola(0)/m/n/10.95 (L.) Tre-vis.(= Be-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+\TU/TeXGyreSchola(0)/m/n/10.95 to-nica of-fi-ci-na-lis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Voir : Oran-ger
+ []
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 89--89
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Tri-ti-cum aes-ti-vum
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 89--89
+\TU/TeXGyreSchola(0)/m/n/10.95 vul-gare Host)(= T.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+\TU/TeXGyreSchola(0)/m/n/10.95 L.,V. den-si-flo-rum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+\TU/TeXGyreSchola(0)/m/n/10.95 forme Schrad.),V.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ca-mo-mille al-le-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ca-mo-mille ro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ca-mo-mille vul-
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Can-ne-lier de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TeXGyreSchola(0)/b/n/10.95 Cey-lan.Can-nelle
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 109--109
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Cin-na-mo-mum zey-
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 109--109
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ecorce de tige ra-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Can-ne-lier de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TeXGyreSchola(0)/b/n/10.95 Chine.Can-nelle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TeXGyreSchola(0)/m/n/10.95 ma-ti-cum Nees,C.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TeXGyreSchola(0)/m/n/10.95 cas-sia Nees ex
+ []
+
+
+Underfull \hbox (badness 6641) in paragraph at lines 109--109
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ecorce de tige =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 1661) in paragraph at lines 109--109
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Tro-paeo-lum ma-jus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ca-rou-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TeXGyreSchola(0)/b/n/10.95 bier.Gomme
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ce-ra-to-nia si-li-qua
+ []
+
+
+Underfull \hbox (badness 5519) in paragraph at lines 109--109
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Graine mon-dée =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Car-ra-ga-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TeXGyreSchola(0)/b/n/10.95 heen.Mousse
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Chon-drus cris-pus
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 109--109
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Car-tha-mus tinc-to-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Cas-sis-sier.Gro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Cen-tau-rée (pe-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Cen-tau-rium ery-
+ []
+
+
+Underfull \hbox (badness 3333) in paragraph at lines 109--109
+\TU/TeXGyreSchola(0)/m/n/10.95 [L.] Per-soon)(= C.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TeXGyreSchola(0)/m/n/10.95 mi-nus Moench)(=
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TeXGyreSchola(0)/m/n/10.95 C. um-bel-la-tum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ce-ri-sier griot-
+ []
+
+
+Underfull \hbox (badness 2343) in paragraph at lines 109--109
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ci-cho-rium in-ty-bus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Chien-dent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TeXGyreSchola(0)/b/n/10.95 (gros).Chien-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TeXGyreSchola(0)/b/n/10.95 dent pied de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Cy-no-don dac-ty-lon
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Chien-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TeXGyreSchola(0)/b/n/10.95 dent.Chien-dent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ely-tri-gia re-pens
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TeXGyreSchola(0)/m/n/10.95 [L.] Desv. ex
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TeXGyreSchola(0)/m/n/10.95 Nevski(= Agro-
+ []
+
+
+Underfull \hbox (badness 6252) in paragraph at lines 109--109
+\TU/TeXGyreSchola(0)/m/n/10.95 py-ron re-pens [L.]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TeXGyreSchola(0)/m/n/10.95 Beauv.)(= Ely-mus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Voir : Courge
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Pa-pa-ver rhoeas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Co-rian-drum sa-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Courge ci-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+\TU/TeXGyreSchola(0)/b/n/10.95 trouille.Ci-
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 129--129
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Cu-cur-bita maxima
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Criste ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+\TU/TeXGyreSchola(0)/b/n/10.95 rine.Perce-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Crith-mum ma-ri-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Cur-cuma do-mes-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Cya-mop-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+\TU/TeXGyreSchola(0)/b/n/10.95 sis.Gomme
+ []
+
+
+Underfull \hbox (badness 5519) in paragraph at lines 129--129
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Graine mon-dée =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Eglan-tier.Cy-nor-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+\TU/TeXGyreSchola(0)/b/n/10.95 rho-don.Ro-sier
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Rosa ca-nina L.,
+ []
+
+
+Underfull \hbox (badness 4072) in paragraph at lines 129--129
+\TU/TeXGyreSchola(0)/m/n/10.95 autres es-pèces de
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 129--129
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Pseudo-fruit = cy-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Eleu-the-ro-coc-cus
+ []
+
+[5]
+Underfull \hbox (badness 5533) in paragraph at lines 144--144
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ar-te-mi-sia dra-cun-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Eu-ca-lyp-tus.Eu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+\TU/TeXGyreSchola(0)/b/n/10.95 ca-lyp-tus glo-bu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Eu-ca-lyp-tus glo-bu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Foe-ni-cu-lum vul-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+\TU/TeXGyreSchola(0)/m/n/10.95 gare Mill. var.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Fe-nouil
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+\TU/TeXGyreSchola(0)/b/n/10.95 doux.Aneth fe-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Foe-ni-cu-lum vul-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+\TU/TeXGyreSchola(0)/m/n/10.95 gare Mill. var.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 5667) in paragraph at lines 144--144
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Fraxi-nus ex-cel-sior
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+\TU/TeXGyreSchola(0)/m/n/10.95 L.,F. oxy-phylla
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Suc épaissi dit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Fu-cus ser-ra-tus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ge-né-vrier.Ge-
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 163--163
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ju-ni-pe-rus com-mu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Cône fe-melle dit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Gen-tiane.Gen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Zin-gi-ber of-fi-ci-nale
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Gin-seng.Pa-nax
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Pa-nax gin-seng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+\TU/TeXGyreSchola(0)/m/n/10.95 lia quin-que-fo-lia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Sy-zy-gium aro-ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+\TU/TeXGyreSchola(0)/m/n/10.95 ti-cum (L.) Merr.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+\TU/TeXGyreSchola(0)/m/n/10.95 et Perry(= Eu-ge-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+\TU/TeXGyreSchola(0)/m/n/10.95 nia ca-ryo-phyl-lus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Glé-dit-schia.Fé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Gle-dit-schia tri-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+\TU/TeXGyreSchola(0)/m/n/10.95 acan-thos L.,G.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Gomme adra-
+ []
+
+
+Underfull \hbox (badness 3460) in paragraph at lines 163--163
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Voir : As-tra-gale à
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Gomme ara-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Voir : Aca-cia à
+ []
+
+
+Underfull \hbox (badness 2903) in paragraph at lines 163--163
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Gomme de ster-
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Griot-tier.Ce-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+\TU/TeXGyreSchola(0)/b/n/10.95 ri-sier griot-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+\TU/TeXGyreSchola(0)/b/n/10.95 tier.Queue de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Pru-nus ce-ra-sus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Al-thaea of-fi-ci-na-lis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Feuille, fleur,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Hu-mu-lus lu-pu-lus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 In-flo-res-cence fe-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Zi-zi-phus ju-juba
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+\TU/TeXGyreSchola(0)/m/n/10.95 Mill.(= Z. sa-tiva
+ []
+
+
+Underfull \hbox (badness 3449) in paragraph at lines 183--183
+\TU/TeXGyreSchola(0)/m/n/10.95 Gaertn.)(= Z. vul-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+\TU/TeXGyreSchola(0)/m/n/10.95 ga-ris Lam.)(=
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Fruit privé de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Kar-kadé.Oseille
+ []
+
+
+Underfull \hbox (badness 1796) in paragraph at lines 183--183
+\TU/TeXGyreSchola(0)/b/n/10.95 de Gui-née.Hi-bis-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ko-la-tier.Co-la-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Cola acu-mi-nata
+ []
+
+
+Underfull \hbox (badness 3088) in paragraph at lines 183--183
+\TU/TeXGyreSchola(0)/m/n/10.95 (P. Beauv.) Schott
+ []
+
+
+Underfull \hbox (badness 2197) in paragraph at lines 183--183
+\TU/TeXGyreSchola(0)/m/n/10.95 et Endl.(= Ster-cu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+\TU/TeXGyreSchola(0)/m/n/10.95 lia acu-mi-nata P.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+\TU/TeXGyreSchola(0)/m/n/10.95 Beauv.),C. ni-tida
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+\TU/TeXGyreSchola(0)/m/n/10.95 (Vent.) Schott et
+ []
+
+
+Underfull \hbox (badness 2753) in paragraph at lines 183--183
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Amande dite noix
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Co-rolle mon-dée,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+\TU/TeXGyreSchola(0)/m/n/10.95 J.P. La-mour.,L.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+\TU/TeXGyreSchola(0)/m/n/10.95 hy-per-bo-rea (Gun-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+\TU/TeXGyreSchola(0)/m/n/10.95 ne-rus) Fos-lie,L.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Lau-rier com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+\TU/TeXGyreSchola(0)/b/n/10.95 mun.Lau-rier
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 La-vande.La-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Fleur, som-mité
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 La-vande stoe-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 La-van-dula stoe-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Fleur, som-mité
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 La-van-din
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+\TU/TeXGyreSchola(0)/m/n/10.95 me-dia Eme-ric ex
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Fleur, som-mité
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Le-mon-grass
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+\TU/TeXGyreSchola(0)/b/n/10.95 de l’Amé-rique
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 197--197
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Cym-bo-po-gon ci-tra-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Le-mon-grass de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Cym-bo-po-gon
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+\TU/TeXGyreSchola(0)/m/n/10.95 flexuo-sus (Nees
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+\TU/TeXGyreSchola(0)/m/n/10.95 ex Steud.) J.F.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ce-tra-ria is-lan-dica
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+\TU/TeXGyreSchola(0)/m/n/10.95 (L.) Ach. sensu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Gle-choma he-de-
+ []
+
+
+Underfull \hbox (badness 2119) in paragraph at lines 197--197
+\TU/TeXGyreSchola(0)/m/n/10.95 ra-cea L.(= Ne-peta
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Par-tie aé-rienne
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Li-num usi-ta-tis-si-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Le-vis-ti-cum of-fi-ci-
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 197--197
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Feuille, fruit, par-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Mar-jo-laine.Ori-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ori-ga-num ma-jo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Feuille, som-mité
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 4505) in paragraph at lines 216--216
+\TU/TeXGyreSchola(0)/m/n/10.95 St.-Hil.(= I. pa-ra-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ma-tri-caire.Ca-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+\TU/TeXGyreSchola(0)/b/n/10.95 mo-mille al-le-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+\TU/TeXGyreSchola(0)/b/n/10.95 mande.Ca-mo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ma-tri-ca-ria re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+\TU/TeXGyreSchola(0)/m/n/10.95 cu-tita L.(= Cha-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+\TU/TeXGyreSchola(0)/m/n/10.95 mo-milla re-cu-tita
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+\TU/TeXGyreSchola(0)/m/n/10.95 [L.] Rausch.)(=
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Me-lissa of-fi-ci-na-lis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Feuille, som-mité
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Voir : Bal-sa-mite
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Feuille, som-mité
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Feuille, som-mité
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Mé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+\TU/TeXGyreSchola(0)/b/n/10.95 nyanthe.Trèfle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Me-nyanthes tri-fo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Mousse d’Ir-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Voir : Car-ra-ga-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Mou-tarde jun-ci-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Mus-ca-dier aro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+\TU/TeXGyreSchola(0)/b/n/10.95 ma-tique.Ma-
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 216--216
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 My-ris-tica fra-grans
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+\TU/TeXGyreSchola(0)/m/n/10.95 Houtt.(= M. mo-
+ []
+
+
+Underfull \hbox (badness 7256) in paragraph at lines 216--216
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Graine dite mus-
+ []
+
+
+Underfull \hbox (badness 2253) in paragraph at lines 216--216
+\TU/TeXGyreSchola(0)/m/n/10.95 cade » ou noix de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+\TU/TeXGyreSchola(0)/m/n/10.95 mus-cade », arille
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 7486) in paragraph at lines 216--216
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Myr-tus com-mu-nis
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Myr-tille.Ai-relle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Vac-ci-nium myr-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ci-trus au-ran-tium
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+\TU/TeXGyreSchola(0)/m/n/10.95 L.(= C. bi-ga-ra-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+\TU/TeXGyreSchola(0)/m/n/10.95 dia Duch.)(= C.
+ []
+
+
+Underfull \hbox (badness 5161) in paragraph at lines 236--236
+\TU/TeXGyreSchola(0)/m/n/10.95 carpe dit écorce »
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 5637) in paragraph at lines 236--236
+\TU/TeXGyreSchola(0)/m/n/10.95 Pers.(= C. au-ran-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Pé-ri-carpe dit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 4242) in paragraph at lines 236--236
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ori-ga-num vul-gare
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Feuille, som-mité
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ori-gan mar-jo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Voir : La-mier
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+\TU/TeXGyreSchola(0)/m/n/10.95 poudre (suc du
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Voir : Rose tré-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Paul-li-nia.Gua-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Paul-li-nia cu-pana
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Pen-sée sau-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+\TU/TeXGyreSchola(0)/b/n/10.95 vage.Vio-lette
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Fleur, par-tie aé-
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Voir : Criste ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Pi-ment de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+\TU/TeXGyreSchola(0)/b/n/10.95 Cayenne.Pi-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+\TU/TeXGyreSchola(0)/b/n/10.95 en-ragé.Pi-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Cap-si-cum fru-tes-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ta-raxa-cum of-fi-ci-
+ []
+
+
+Underfull \hbox (badness 2285) in paragraph at lines 256--256
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Feuille, par-tie aé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ma-lus syl-ves-tris
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+\TU/TeXGyreSchola(0)/m/n/10.95 Mill.(= Py-rus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Pru-nus do-mes-tica
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ra-pha-nus sa-ti-vus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ar-mo-ra-cia rus-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+\TU/TeXGyreSchola(0)/m/n/10.95 cana Gaertn., B.
+ []
+
+
+Underfull \hbox (badness 5008) in paragraph at lines 256--256
+\TU/TeXGyreSchola(0)/m/n/10.95 Mey. et Scherb.(=
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 1810) in paragraph at lines 256--256
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Gly-cyr-rhiza gla-bra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Reine-des-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Fi-li-pen-dula ul-ma-
+ []
+
+
+Underfull \hbox (badness 5446) in paragraph at lines 256--256
+\TU/TeXGyreSchola(0)/m/n/10.95 ria (L.) Maxim.(=
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+\TU/TeXGyreSchola(0)/m/n/10.95 Spi-raea ul-ma-ria
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Fleur, som-mité
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ros-ma-ri-nus of-fi-ci-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Feuille, som-mité
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Rose tré-
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ro-sier à roses
+ []
+
+
+Underfull \hbox (badness 4556) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Bou-ton flo-ral, pé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Rosa da-mas-cena
+ []
+
+
+Underfull \hbox (badness 4556) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Bou-ton flo-ral, pé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ro-sier de Pro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+\TU/TeXGyreSchola(0)/b/n/10.95 vins.Ro-sier à
+ []
+
+
+Underfull \hbox (badness 4556) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Bou-ton flo-ral, pé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 2617) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Sa-tu-reja hor-ten-sis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Feuille, som-mité
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Sar-riette des
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Sa-tu-reja mon-tana
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Feuille, som-mité
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Sal-via la-van-du-li-fo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Feuille, som-mité
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Sauge scla-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+\TU/TeXGyreSchola(0)/b/n/10.95 rée.Scla-rée
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Feuille, som-mité
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Sal-via fru-ti-cosa
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ser-po-let.Thym
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Thy-mus ser-pyl-lum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Feuille, som-mité
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ster-cu-lia.Gomme
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+\TU/TeXGyreSchola(0)/b/n/10.95 Ka-raya.Gomme
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ster-cu-lia urens
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+\TU/TeXGyreSchola(0)/m/n/10.95 Roxb., S. to-men-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ex-su-da-tion gom-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+\TU/TeXGyreSchola(0)/m/n/10.95 Ster-cu-lia, gomme
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+\TU/TeXGyreSchola(0)/m/n/10.95 Ka-raya, gomme
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ta-ma-ri-nier de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 4739) in paragraph at lines 294--294
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Cur-cuma xan-thor-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ca-mel-lia si-nen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+\TU/TeXGyreSchola(0)/m/n/10.95 sis (L.) Kuntze(=
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+\TU/TeXGyreSchola(0)/m/n/10.95 C. thea Link)(=
+ []
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 294--294
+\TU/TeXGyreSchola(0)/m/n/10.95 Thea si-nen-sis (L.)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Thy-mus vul-ga-ris
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Feuille, som-mité
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Ti-lia pla-ty-phyl-los
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+\TU/TeXGyreSchola(0)/m/n/10.95 Scop., T. cor-data
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+\TU/TeXGyreSchola(0)/m/n/10.95 Mill.(= T. ul-mi-
+ []
+
+
+Underfull \hbox (badness 5533) in paragraph at lines 294--294
+\TU/TeXGyreSchola(0)/m/n/10.95 fo-lia Scop.) (= T.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+\TU/TeXGyreSchola(0)/m/n/10.95 par-vi-fo-lia Ehrh.ex
+ []
+
+
+Underfull \hbox (badness 2799) in paragraph at lines 294--294
+\TU/TeXGyreSchola(0)/m/n/10.95 Hoffm.) (= T. syl-
+ []
+
+
+Underfull \hbox (badness 3657) in paragraph at lines 294--294
+\TU/TeXGyreSchola(0)/m/n/10.95 ves-tris Desf.),T. ×
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Au-bier, in-flo-res-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Voir : Reine-des-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ver-veine odo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Aloy-sia ci-tro-dora
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+\TU/TeXGyreSchola(0)/m/n/10.95 Pa-lau(= Aloy-sia
+ []
+
+
+Underfull \hbox (badness 4084) in paragraph at lines 294--294
+\TU/TeXGyreSchola(0)/m/n/10.95 tri-phylla (L’Hé-rit.)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+\TU/TeXGyreSchola(0)/m/n/10.95 Britt.)(= Lip-pia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Viola cal-ca-rata
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+[]|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Vio-lette tri-co-
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 294--294
+[]|\TU/TeXGyreSchola(0)/m/n/10.95 Voir : Pen-sée sau-
+ []
+
+[14] 
 enddocument/afterlastpage: lastpage setting LastPage.
-("./Notes de stage - Herboristerie 2024.aux")
+(./liste_148.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
@@ -4319,43 +6080,28 @@ L3 programming layer <2023-08-29>
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.4315pt have occurred.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package rerunfilecheck Info: File `"Notes de stage - Herboristerie 2024".out' h
-as not changed.
-(rerunfilecheck)             Checksum: <no file>.
-
-Package lastpage Warning: Rerun to get the references right on input line 177.
-
+Package rerunfilecheck Info: File `liste_148.out' has not changed.
+(rerunfilecheck)             Checksum: 1FCC46F78D94DD148FE393F84920CAD6;114.
 )
 
 Here is how much of LuaTeX's memory you used:
- 105214 strings out of 477259
- 156333,4921788 words of node,token memory allocated
- 2861 words of node memory still in use:
-   33 hlist, 2 vlist, 15 rule, 73 glue, 4 kern, 1 penalty, 2 glyph, 380 attribut
-e, 125 glue_spec, 119 attribute_list, 2 write, 24 pdf_literal, 24 pdf_colorstack
- nodes
-   avail lists: 1:47,2:20126,3:4147,4:418,5:531,6:140,7:6611,8:7,9:1356,10:17,11
-:395
- 122934 multiletter control sequences out of 65536+600000
- 187 fonts using 29022167 bytes
- 116i,17n,128p,2862b,1747s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreschola-bold.otf><
-C:/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreschola-italic.otf>
-<C:/Users/Utilisateur/AppData/Roaming/MiKTeX/fonts/opentype/public/fontawesome5/
-FontAwesome5Free-Solid-900.otf><C:/Program Files/MiKTeX/fonts/opentype/public/te
-x-gyre/texgyreschola-regular.otf><C:/Program Files/MiKTeX/fonts/opentype/public/
-tex-gyre/texgyreschola-bold.otf><C:/Program Files/MiKTeX/fonts/opentype/public/t
-ex-gyre-math/texgyreschola-math.otf>
-Output written on Notes de stage - Herboristerie 2024.pdf (11 pages, 1372728 byt
-es).
+ 104581 strings out of 477259
+ 125011,4921788 words of node,token memory allocated
+ 6421 words of node memory still in use:
+   32 hlist, 2 vlist, 15 rule, 136 glue, 4 kern, 1 penalty, 2 glyph, 1556 attrib
+ute, 123 glue_spec, 287 attribute_list, 2 write, 24 pdf_literal, 75 pdf_action, 
+24 pdf_colorstack nodes
+   avail lists: 1:38,2:13700,3:1403,4:967,5:646,6:201,7:7090,8:4,9:2589,10:9,11:
+456
+ 122591 multiletter control sequences out of 65536+600000
+ 116 fonts using 18052111 bytes
+ 116i,11n,128p,2788b,1538s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreschola-regular.ot
+f><C:/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreschola-bold.otf
+>
+Output written on liste_148.pdf (14 pages, 148443 bytes).
 
-PDF statistics: 198 PDF objects out of 1000 (max. 8388607)
- 62 named destinations out of 1000 (max. 131072)
- 276 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 815 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 131072)
+ 274 words of extra memory for PDF output out of 10000 (max. 100000000)
 

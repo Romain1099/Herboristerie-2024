@@ -74,15 +74,24 @@ at (frame.south west) {\thetags[0]} ;}
 }
 
 \newcommand{\vocref}[2]{
+    \href{#1}{\bfseries\color{monrose} #2\index{#2}}
+}
+\newcommand{\vocnoindexref}[2]{
     \href{#1}{\bfseries\color{monrose} #2}
 }
+
 \usepackage{imakeidx}
 \makeindex[title=Index des termes, intoc]
 
+\usepackage{datatool}
 
 \definecolor{headerbg}{RGB}{0, 128, 0} % Couleur du fond de l'en-tête
-\definecolor{rowbg1}{RGB}{235, 245, 235} % Couleur des lignes claires
-\definecolor{rowbg2}{RGB}{255, 255, 255} % Couleur des lignes foncées
+\definecolor{rowbg1}{RGB}{245, 245, 245}
+\definecolor{rowbg2}{RGB}{255, 255, 255}
+
+% Charger les données depuis le fichier CSV
+%\DTLloaddb{liste148}{Ressources/liste_148.csv}
+
 \definecolor{highlight}{RGB}{255, 255, 0} % Couleur de surlignage
 \newcommand{\voc}[1]{\textbf{\color{headerbg!75!black}#1}\index{#1}}
 
@@ -131,9 +140,6 @@ at (frame.south west) {\thetags[0]} ;}
     Notes de stage :% type_document
     }
 
-\includeplantenature{coquelicot.jpg}{Coquelicots}{Vue sur les pétales - 30/07/2024}
-\includeplanteseche{tout.jpg}{Récolte complète}{Stage Herboristerie - 30/07/2024}
-
     \section*{Remerciements}
     \addcontentsline{toc}{section}{Remerciements}
         \input{tex/divers/remerciements.tex}
@@ -157,6 +163,11 @@ at (frame.south west) {\thetags[0]} ;}
         \input{tex/medecine.tex}
 
 
+    \newpage
+    
+    \section{Liste des 148}
+        \input{Ressources/liste_148.tex}
+        
     % Insérer l'index
     \printindex
 
