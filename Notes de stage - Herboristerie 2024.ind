@@ -1,5 +1,6 @@
 \begin{theindex}
 
+<<<<<<< Updated upstream
   \item achillée, 18
   \item achillée millefeuille, 11, 19, 21
   \item alcaloïdes, 4
@@ -51,6 +52,59 @@
   \item emménagogue, 11, 12
   \item ensoleillé, 9
   \item expectorants, 8
+=======
+  \item achillée, 17
+  \item achillée millefeuille, 10, 18, 20
+  \item alcaloïdes, 3
+  \item alcool, 3, 20
+  \item alcoolature, 3
+  \item amère, 10
+  \item anti-inflammatoires, 7
+  \item Armoise annuelle, 10
+  \item astreingeante, 10
+  \item au chaud, 8
+  \item au soleil, 8
+  \item aubépine, 15
+
+  \indexspace
+
+  \item Bain de plantes, 6
+  \item baume, 17
+
+  \indexspace
+
+  \item calcium, 7
+  \item calendula, 17
+  \item Cataplasme, 6
+  \item cidre de pommes, 7
+  \item cire d'abeille, 17, 18
+  \item complexes, 3
+  \item Compresses, 6
+  \item condensation, 8
+  \item corps gras, 8, 17, 18
+  \item cul de poule, 17, 18
+
+  \indexspace
+
+  \item diffusion, 3, 7, 8, 19
+  \item dosage, 7
+  \item dynamisant, 3
+  \item Dynamiser, 3, 7, 19
+  \item dynamiser, 3
+  \item décotion, 5
+  \item désinfectant, 10
+  \item désinfecté, 7
+
+  \indexspace
+
+  \item eau chaude, 5
+  \item eau de rose, 18
+  \item eau florale de rose, 17
+  \item Elixir floraux, 11
+  \item emménagogue, 10, 11
+  \item ensoleillé, 8
+  \item expectorants, 7
+>>>>>>> Stashed changes
 
   \indexspace
 
@@ -73,6 +127,7 @@
 
   \indexspace
 
+<<<<<<< Updated upstream
   \item liste des 148, 10, 22
 
   \indexspace
@@ -131,6 +186,66 @@
   \item teinture officinale, 4
   \item Tisanes, 12
   \item transpiration, 14
+=======
+  \item liste des 148, 9, 21
+
+  \indexspace
+
+  \item Macérat huileux, 10
+  \item macérat huileux, 8, 17, 18
+  \item macérat solaire, 8
+  \item macération au vinaigre, 7
+  \item macérer, 5, 7
+  \item magnésium, 7
+  \item miel, 17
+  \item millepertuis, 12, 18
+  \item Minéraux, 6
+  \item minéraux, 7
+
+  \indexspace
+
+  \item onguent, 18
+  \item ortie, 16
+
+  \indexspace
+
+  \item paire de ciseaux, 3
+  \item pas d'insecte, 8
+  \item pharmacopée, 9, 21
+  \item plante de la femme, 10, 13
+  \item plantes fraîches, 7
+  \item plexus solaire, 18
+  \item principes actifs, 3, 5, 7
+  \item Principes amers, 6
+  \item principes volatiles, 5
+  \item propolis, 17
+  \item Purin, 11
+
+  \indexspace
+
+  \item reminéralisation, 10
+  \item romarin, 14
+  \item rééquilibre hormonal, 13
+
+  \indexspace
+
+  \item saignements, 10
+  \item sec, 17, 18
+  \item stables, 8
+  \item Sucres, 6
+  \item sèches, 3
+  \item sécateur, 3
+  \item sécher les plantes, 19
+
+  \indexspace
+
+  \item teinctoriale, 10
+  \item Teinture mère, 10, 11
+  \item teinture mère, 3, 18
+  \item teinture officinale, 3
+  \item Tisanes, 11
+  \item transpiration, 13
+>>>>>>> Stashed changes
 
   \indexspace
 
@@ -141,9 +256,16 @@
 
   \indexspace
 
+<<<<<<< Updated upstream
   \item à l'abri de l'humidité, 4, 9
   \item à l'abri de la lumière, 4
   \item ébullition, 6
   \item étanche, 18, 19
+=======
+  \item à l'abri de l'humidité, 3, 8
+  \item à l'abri de la lumière, 3
+  \item ébullition, 5
+  \item étanche, 17, 18
+>>>>>>> Stashed changes
 
 \end{theindex}
