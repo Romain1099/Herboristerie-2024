@@ -245,18 +245,25 @@ at (frame.south west) {\thetags[0]} ;}
                 \end{itemize}
             \end{bclogo}
         \end{multicols}
+
+        \boite{Préparation :}{
+            \begin{multicols}{2}
+                \begin{enumerate}
+                    #4
+                \end{enumerate}
+            \end{multicols}
+        }
+
         \begin{multicols}{2}
-            \begin{bclogo}[couleur=green!50!gray,arrondi=0.1,logo=\bccalendrier]{Conservation}
-                #4
-            \end{bclogo}
-            \begin{bclogo}[couleur=green!40!gray,arrondi=0.1,logo=\bcbook]{Utilisation}
+
+            \begin{bclogo}[couleur=green!40!gray,arrondi=0.1,logo=\bcbook]{Conservation / Utilisation}
                 #5
             \end{bclogo}
 
-	\columnbreak
+	        \columnbreak
 
-	    \begin{center}\includeprepa[0.4]{#7}{#8}{#9}\end{center}
-    \end{multicols}
+	        \begin{center}\includeprepa[0.4]{#7}{#8}{#9}\end{center}
+        \end{multicols}
         \begin{Remarque}
             #6
         \end{Remarque}
@@ -288,17 +295,18 @@ at (frame.south west) {\thetags[0]} ;}
     Notes de stage :% type_document
     }
 
-    \section*{Comment utiliser ce document ?}
-    \addcontentsline{toc}{section}{Comment utiliser ce document ?}
-
-	\input{tex/divers/how_to.tex}
-    \section*{Remerciements}
-    \addcontentsline{toc}{section}{Remerciements}
-        \input{tex/divers/remerciements.tex}
-
     \section{Introduction}
 
         \input{tex/divers/introduction.tex}
+
+        \subsection*{Comment utiliser ce document ?}
+            \addcontentsline{toc}{subsection}{Comment utiliser ce document ?}
+            \input{tex/divers/how_to.tex}
+
+        \subsection*{Remerciements}
+            \addcontentsline{toc}{subsection}{Remerciements}
+            \input{tex/divers/remerciements.tex}
+
     \newpage
     \section{Transformations}
 
