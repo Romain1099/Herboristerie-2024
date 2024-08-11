@@ -89,4 +89,7 @@
 \contentsline {section}{\numberline {5}Liste des 148}{21}{section.5}%
 \contentsline {section}{Index des termes}{35}{section*.3}%
 \contentsline {section}{Références}{36}{section*.5}%
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
