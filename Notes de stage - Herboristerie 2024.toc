@@ -11,56 +11,57 @@
 \contentsline {subsection}{\numberline {2.2}Solvant eau}{7}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Solvant vinaigre}{9}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}Macérat huileux}{10}{subsection.2.4}%
-\contentsline {section}{\numberline {3}Botanique}{11}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Introduction}{11}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Cueillette}{12}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Conservation}{12}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Plantes adaptogènes}{12}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}Asteraceae}{13}{subsection.3.5}%
-\contentsline {subsubsection}{\numberline {3.5.1}Achillée millefeuille}{13}{subsubsection.3.5.1}%
-\contentsline {subsubsection}{\numberline {3.5.2}Armoise annuelle}{15}{subsubsection.3.5.2}%
-\contentsline {subsubsection}{\numberline {3.5.3}Calendula}{17}{subsubsection.3.5.3}%
-\contentsline {subsection}{\numberline {3.6}Bracicaceae}{17}{subsection.3.6}%
-\contentsline {subsection}{\numberline {3.7}Cannabaceae}{17}{subsection.3.7}%
-\contentsline {subsubsection}{\numberline {3.7.1}Houblon}{17}{subsubsection.3.7.1}%
-\contentsline {subsection}{\numberline {3.8}Herbaceae}{18}{subsection.3.8}%
-\contentsline {subsubsection}{\numberline {3.8.1}Plantain lancéolé}{18}{subsubsection.3.8.1}%
-\contentsline {subsection}{\numberline {3.9}Hypericaceae}{19}{subsection.3.9}%
-\contentsline {subsubsection}{\numberline {3.9.1}Millepertuis}{19}{subsubsection.3.9.1}%
-\contentsline {subsection}{\numberline {3.10}Lamiaceae}{21}{subsection.3.10}%
-\contentsline {subsubsection}{\numberline {3.10.1}Sauge officinale}{21}{subsubsection.3.10.1}%
-\contentsline {subsubsection}{\numberline {3.10.2}Sauge sclarée}{23}{subsubsection.3.10.2}%
-\contentsline {subsubsection}{\numberline {3.10.3}Romarin}{24}{subsubsection.3.10.3}%
-\contentsline {subsection}{\numberline {3.11}Rosaceae}{25}{subsection.3.11}%
-\contentsline {subsubsection}{\numberline {3.11.1}Aubépine}{25}{subsubsection.3.11.1}%
-\contentsline {subsubsection}{\numberline {3.11.2}Reine des prés}{26}{subsubsection.3.11.2}%
-\contentsline {subsection}{\numberline {3.12}Solanaceae}{27}{subsection.3.12}%
-\contentsline {subsection}{\numberline {3.13}Urticaceae}{27}{subsection.3.13}%
-\contentsline {subsubsection}{\numberline {3.13.1}Ortie}{27}{subsubsection.3.13.1}%
-\contentsline {section}{\numberline {4}Recettes}{29}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Baumes}{29}{subsection.4.1}%
-\contentsline {subsubsection}{\numberline {4.1.1}Baume à lèvres - anti-inflammatoire }{29}{subsubsection.4.1.1}%
-\contentsline {subsubsection}{\numberline {4.1.2}Baume pour la lignée féminine }{30}{subsubsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.2}Cuisine}{31}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Onguents}{31}{subsection.4.3}%
-\contentsline {subsubsection}{\numberline {4.3.1}Crème après soleil }{32}{subsubsection.4.3.1}%
-\contentsline {subsubsection}{\numberline {4.3.2}Crème anti-hémorroïdes }{33}{subsubsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.4}Huiles}{35}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Tisanes}{35}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6}Vinaigres}{35}{subsection.4.6}%
-\contentsline {subsubsection}{\numberline {4.6.1}Vinaigre d'origan }{35}{subsubsection.4.6.1}%
-\contentsline {section}{\numberline {5}Utilisations médicinales}{36}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Ballonnements / digestion}{36}{subsection.5.1}%
-\contentsline {subsubsection}{\numberline {5.1.1}Digestion difficile}{36}{subsubsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.2}Brulûres}{36}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Coupures}{36}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}Douleurs de règles}{36}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}Fragilité}{36}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6}Irritations}{36}{subsection.5.6}%
-\contentsline {subsubsection}{\numberline {5.6.1}Maux de gorge}{36}{subsubsection.5.6.1}%
-\contentsline {subsubsection}{\numberline {5.6.2}Hémorroïdes}{36}{subsubsection.5.6.2}%
-\contentsline {subsection}{\numberline {5.7}Migraines}{36}{subsection.5.7}%
-\contentsline {subsection}{\numberline {5.8}Saignements}{36}{subsection.5.8}%
-\contentsline {section}{\numberline {6}Liste des 148}{37}{section.6}%
-\contentsline {section}{Index des termes}{51}{section*.6}%
-\contentsline {section}{Références}{53}{section*.8}%
+\contentsline {subsection}{\numberline {2.5}Extraction des huiles essentielles}{11}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Botanique}{12}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Introduction}{12}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Cueillette}{13}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Conservation}{13}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Plantes adaptogènes}{13}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Asteraceae}{14}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Achillée millefeuille}{14}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}Armoise annuelle}{16}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.3}Calendula}{18}{subsubsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.6}Bracicaceae}{18}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Cannabaceae}{18}{subsection.3.7}%
+\contentsline {subsubsection}{\numberline {3.7.1}Houblon}{18}{subsubsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.8}Herbaceae}{19}{subsection.3.8}%
+\contentsline {subsubsection}{\numberline {3.8.1}Plantain lancéolé}{19}{subsubsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.9}Hypericaceae}{20}{subsection.3.9}%
+\contentsline {subsubsection}{\numberline {3.9.1}Millepertuis}{20}{subsubsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.10}Lamiaceae}{22}{subsection.3.10}%
+\contentsline {subsubsection}{\numberline {3.10.1}Sauge officinale}{22}{subsubsection.3.10.1}%
+\contentsline {subsubsection}{\numberline {3.10.2}Sauge sclarée}{24}{subsubsection.3.10.2}%
+\contentsline {subsubsection}{\numberline {3.10.3}Romarin}{25}{subsubsection.3.10.3}%
+\contentsline {subsection}{\numberline {3.11}Rosaceae}{26}{subsection.3.11}%
+\contentsline {subsubsection}{\numberline {3.11.1}Aubépine}{26}{subsubsection.3.11.1}%
+\contentsline {subsubsection}{\numberline {3.11.2}Reine des prés}{28}{subsubsection.3.11.2}%
+\contentsline {subsection}{\numberline {3.12}Solanaceae}{29}{subsection.3.12}%
+\contentsline {subsection}{\numberline {3.13}Urticaceae}{29}{subsection.3.13}%
+\contentsline {subsubsection}{\numberline {3.13.1}Ortie}{29}{subsubsection.3.13.1}%
+\contentsline {section}{\numberline {4}Recettes}{31}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Baumes}{31}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Baume à lèvres - anti-inflammatoire }{31}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Baume pour la lignée féminine }{32}{subsubsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.2}Cuisine}{33}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Onguents}{33}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Crème après soleil }{34}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Crème anti-hémorroïdes }{35}{subsubsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.4}Huiles}{37}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Tisanes}{37}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Vinaigres}{37}{subsection.4.6}%
+\contentsline {subsubsection}{\numberline {4.6.1}Vinaigre d'origan }{37}{subsubsection.4.6.1}%
+\contentsline {section}{\numberline {5}Utilisations médicinales}{38}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Ballonnements / digestion}{38}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}Digestion difficile}{38}{subsubsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.2}Brulûres}{38}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Coupures}{38}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Douleurs de règles}{38}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Fragilité}{38}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Irritations}{38}{subsection.5.6}%
+\contentsline {subsubsection}{\numberline {5.6.1}Maux de gorge}{38}{subsubsection.5.6.1}%
+\contentsline {subsubsection}{\numberline {5.6.2}Hémorroïdes}{38}{subsubsection.5.6.2}%
+\contentsline {subsection}{\numberline {5.7}Migraines}{38}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8}Saignements}{38}{subsection.5.8}%
+\contentsline {section}{\numberline {6}Liste des 148}{39}{section.6}%
+\contentsline {section}{Index des termes}{53}{section*.6}%
+\contentsline {section}{Références}{56}{section*.8}%
