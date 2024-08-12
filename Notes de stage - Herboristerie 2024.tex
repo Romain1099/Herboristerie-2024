@@ -130,6 +130,7 @@ at (frame.south west) {\thetags[0]} ;}
 \NewDocumentEnvironment{boiteidentiteplante}{o+b}{
     \begin{tcolorbox}[
         enhanced,
+	breakable,
         before skip=2mm,after skip=2mm,
         colback=red!5,colframe=red!50,boxrule=0pt,
         attach boxed title to top left={xshift=1cm,yshift*=1mm-\tcboxedtitleheight},
@@ -172,6 +173,7 @@ at (frame.south west) {\thetags[0]} ;}
 \NewDocumentEnvironment{boiterecette}{o+b}{
     \begin{tcolorbox}[
         enhanced,
+	breakable,
         before skip=2mm,after skip=2mm,
         colback=red!5,colframe=green!30!gray,boxrule=0pt,
         attach boxed title to top left={xshift=1cm,yshift*=1mm-\tcboxedtitleheight},
@@ -218,8 +220,11 @@ at (frame.south west) {\thetags[0]} ;}
     \begin{boiteidentiteplante}[#1]
 
         \begin{multicols}{2}
-            \boite{Type d'effet :}{#2}
-            \boite{Effets recherchés :}{#3}
+            	\boite{Type d'effet :}{#2}
+		
+		        \columnbreak
+
+            	\boite{Effets recherchés :}{#3}
         \end{multicols}
 
         \begin{multicols}{2}
@@ -235,6 +240,37 @@ at (frame.south west) {\thetags[0]} ;}
 	        \begin{center}\includeplantenature[0.4]{#7}{#8}{#9}\end{center}
         \end{multicols}
 
+        #6
+
+    \end{boiteidentiteplante}
+}
+\newcommand{\ficheidentiteplantelong}[9]{
+    \subsubsection{#1}
+
+    \begin{boiteidentiteplante}[#1]
+
+        \begin{multicols}{2}
+            	\boite{Type d'effet :}{#2}
+		
+		        \columnbreak
+
+            	\boite{Effets recherchés :}{#3}
+        \end{multicols}
+
+        \begin{multicols}{2}
+            \begin{bclogo}[couleur=blue!30,arrondi=0.1,logo=\bccalendrier]{Cueillette}
+                #4
+            \end{bclogo}
+
+	        \columnbreak
+
+	        \begin{center}\includeplantenature[0.4]{#7}{#8}{#9}\end{center}
+        \end{multicols}
+	 \begin{bclogo}[couleur=blue!30,arrondi=0.1,logo=\bcoutil]{Utilisation privilégiée}
+                \begin{multicols}{2}
+			#5	
+		\end{multicols}
+          \end{bclogo}
         #6
 
     \end{boiteidentiteplante}
