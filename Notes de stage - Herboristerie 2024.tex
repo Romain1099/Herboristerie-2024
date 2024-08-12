@@ -30,6 +30,16 @@ at (frame.south west) {\thetags[0]} ;}
 }
 \input{tex/figures}
 
+\newcommand{\citer}[2]{
+    \hfill\begin{minipage}[t]{0.4\textwidth}
+        \begin{center}
+            \frquote{\textit{#1}}\\
+            \hfill #2
+        \end{center}
+    \end{minipage}
+}
+
+
 \hypersetup{
     pdfauthor={C.Ehrhard - R.Deschamps},
     pdftitle={},
@@ -274,7 +284,6 @@ at (frame.south west) {\thetags[0]} ;}
 \newcommand{\lien}[2]{\hyperref[#1]{\bfseries\color{red!50!yellow}#2}}
 
 \begin{document}
-
 \setcounter{pagecounter}{0}
 \setcounter{ExoMA}{0}
 \setcounter{prof}{0}
@@ -288,7 +297,7 @@ at (frame.south west) {\thetags[0]} ;}
     }{
     Association% type_etablissement
     }{
-    Arsimed% nom_etablissement
+    \vocref{https://arsimed.net/}{Arsimed}% nom_etablissement
     }{
     \label{exemple}\tableofcontents \newpage% supplement
     }{
