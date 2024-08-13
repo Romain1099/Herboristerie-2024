@@ -121,6 +121,12 @@
 \newcommand{\ficheidentiteplante}[9]{
     \subsubsection{#1}
 
+    \ifx\cita\empty
+    \else
+    \cita 
+    \fi%
+
+
     \begin{boiteidentiteplante}[#1]
 
         \begin{multicols}{2}
@@ -148,8 +154,16 @@
 
     \end{boiteidentiteplante}
 }
+\newcommand{\cita}{}
 \newcommand{\ficheidentiteplantelong}[9]{
     \subsubsection{#1}
+
+    \ifx\cita\empty
+    \else
+    \cita 
+    \xdef\cita{}
+    \fi%
+
 
     \begin{boiteidentiteplante}[#1]
 
@@ -181,7 +195,7 @@
 }
 \newcommand{\ficherecette}[9]{
     \subsubsection{#1}
-
+    %citation si citation
     \begin{boiterecette}[#1]
         \begin{multicols}{2}
             \begin{bclogo}[couleur=green!30!white,arrondi=0.1,logo=\bcoeil]{Ingrédients}

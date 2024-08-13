@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10) (format=lualatex 2024.7.16)  12 AUG 2024 21:45
+This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10) (format=lualatex 2024.7.16)  13 AUG 2024 12:59
  system commands enabled.
 **"Notes de stage - Herboristerie 2024.tex"
 ("./Notes de stage - Herboristerie 2024.tex"
@@ -4689,7 +4689,12 @@ reak' or set page breaks manually on input line 60.
 File: bc-fleur.mps Graphic file (type mps)
  [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
 
  []
 
@@ -4704,7 +4709,11 @@ File: bc-plume.mps Graphic file (type mps)
 
 [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-plume.mps)
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
+File: bc-plume.mps Graphic file (type mps)
+
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-plume.mps)
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
 
  []
 
@@ -4714,7 +4723,7 @@ File: bc-calendrier.mps Graphic file (type mps)
 )
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 59.
+(mdframed)              on input line 72.
 File: bc-plume.mps Graphic file (type mps)
  [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-plume.mps)
@@ -4722,15 +4731,35 @@ File: bc-plume.mps Graphic file (type mps)
 
 [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-plume.mps)
+File: bc-plume.mps Graphic file (type mps)
+
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-plume.mps)
+File: bc-plume.mps Graphic file (type mps)
+
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-plume.mps)
+File: bc-plume.mps Graphic file (type mps)
+
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-plume.mps)
+File: bc-plume.mps Graphic file (type mps)
+
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-plume.mps)
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 59.
+ mdframed uses option nobreak mdframed on input line 72.
 File: bc-outil.mps Graphic file (type mps)
 
 [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-outil.mps)
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 59.
+(mdframed)              on input line 72.
+File: bc-crayon.mps Graphic file (type mps)
+
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-crayon.mps)
 File: bc-crayon.mps Graphic file (type mps)
 
 [MP to PDF]
@@ -4748,17 +4777,17 @@ File: bc-crayon.mps Graphic file (type mps)
 [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-crayon.mps)
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 59.
-<Images/plantes_nature/armoise_vulgaris.jpg, id=553, 1204.5pt x 1606.0pt>
+ mdframed uses option nobreak mdframed on input line 72.
+<Images/plantes_nature/armoise_vulgaris.jpg, id=554, 1204.5pt x 1606.0pt>
 File: Images/plantes_nature/armoise_vulgaris.jpg Graphic file (type jpg)
 <use Images/plantes_nature/armoise_vulgaris.jpg>
 Package luatex.def Info: Images/plantes_nature/armoise_vulgaris.jpg  used on in
-put line 59.
+put line 72.
 (luatex.def)             Requested size: 168.4384pt x 224.56891pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 59.
+(caption)                particular \caption on input line 72.
 See the caption package documentation for explanation.
 
 File: bc-fleur.mps Graphic file (type mps)
@@ -4768,19 +4797,15 @@ File: bc-trefle.mps Graphic file (type mps)
 
 [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-trefle.mps)
-Underfull \hbox (badness 5175) in paragraph at lines 59--59
-[]\TU/TeXGyreSchola(0)/b/n/10.95 em-mé-na-gogue[][] \TU/TeXGyreSchola(0)/m/n/1
-0.95 pour ré-gu-la-ri-ser ou
- []
-
 File: bc-trefle.mps Graphic file (type mps)
+
 [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-trefle.mps)
 File: bc-trefle.mps Graphic file (type mps)
 
 [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-trefle.mps)
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
 
  []
 
@@ -4799,17 +4824,17 @@ File: bc-crayon.mps Graphic file (type mps)
 
 [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-crayon.mps)
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
 
  []
 
-[16]
+[16] [17<./Images/plantes_nature/armoise_vulgaris.jpg>]
 File: bc-crayon.mps Graphic file (type mps)
  [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-crayon.mps)
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 67.
+(mdframed)              on input line 80.
 File: bc-plume.mps Graphic file (type mps)
 
 [MP to PDF]
@@ -4866,7 +4891,7 @@ File: bc-crayon.mps Graphic file (type mps)
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-crayon.mps)
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 41.
-<Images/plantes_nature/downloads/calendula_officinalis1.jpg, id=562, 361.35pt x
+<Images/plantes_nature/downloads/calendula_officinalis1.jpg, id=573, 361.35pt x
  271.0125pt>
 File: Images/plantes_nature/downloads/calendula_officinalis1.jpg Graphic file (
 type jpg)
@@ -4880,8 +4905,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 41.
 See the caption package documentation for explanation.
 
-[17<./Images/plantes_nature/armoise_vulgaris.jpg>]))
-(./tex/botanique/bracicaceae.tex) (./tex/botanique/cannabaceae.tex
+[18])) (./tex/botanique/bracicaceae.tex) (./tex/botanique/cannabaceae.tex
 (./tex/botanique/cannabaceae/houblon.tex
 File: bc-fleur.mps Graphic file (type mps)
  [MP to PDF]
@@ -4926,7 +4950,7 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 34.
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 34.
-<Images/plantes_nature/downloads/houblon_bouba.jpg, id=574, 255.95625pt x 222.8
+<Images/plantes_nature/downloads/houblon_bouba.jpg, id=582, 255.95625pt x 222.8
 325pt>
 File: Images/plantes_nature/downloads/houblon_bouba.jpg Graphic file (type jpg)
 
@@ -4940,8 +4964,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 34.
 See the caption package documentation for explanation.
 
-[18<./Images/plantes_nature/downloads/calendula_officinalis1.jpg>]))
-(./tex/botanique/herbaceae.tex (./tex/botanique/herbaceae/plantain.tex
+)) (./tex/botanique/herbaceae.tex (./tex/botanique/herbaceae/plantain.tex
 File: bc-fleur.mps Graphic file (type mps)
 
 [MP to PDF]
@@ -5018,7 +5041,7 @@ File: bc-crayon.mps Graphic file (type mps)
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-crayon.mps)
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 49.
-<Images/plantes_nature/plantain_lanceole.jpeg, id=586, 1204.5pt x 1606.0pt>
+<Images/plantes_nature/plantain_lanceole.jpeg, id=585, 1204.5pt x 1606.0pt>
 File: Images/plantes_nature/plantain_lanceole.jpeg Graphic file (type jpg)
 <use Images/plantes_nature/plantain_lanceole.jpeg>
 Package luatex.def Info: Images/plantes_nature/plantain_lanceole.jpeg  used on 
@@ -5052,8 +5075,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--49
 
  []
 
-[19<./Images/plantes_nature/downloads/houblon_bouba.jpg>]))
-(./tex/botanique/hypericaceae.tex
+[19<./Images/plantes_nature/downloads/calendula_officinalis1.jpg><./Images/plant
+es_nature/downloads/houblon_bouba.jpg>] [20<./Images/plantes_nature/plantain_lan
+ceole.jpeg>])) (./tex/botanique/hypericaceae.tex
 (./tex/botanique/hypericaceae/millepertuis.tex
 File: bc-fleur.mps Graphic file (type mps)
  [MP to PDF]
@@ -5143,7 +5167,7 @@ File: bc-plume.mps Graphic file (type mps)
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-plume.mps)
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 92.
-<Images/plantes_nature/millepertuis (1).jpeg, id=596, 1541.76pt x 2055.68pt>
+<Images/plantes_nature/millepertuis (1).jpeg, id=607, 1541.76pt x 2055.68pt>
 File: Images/plantes_nature/millepertuis (1).jpeg Graphic file (type jpg)
 <use Images/plantes_nature/millepertuis (1).jpeg>
 Package luatex.def Info: Images/plantes_nature/millepertuis (1).jpeg  used on i
@@ -5215,12 +5239,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 92--92
 
  []
 
-[20<./Images/plantes_nature/plantain_lanceole.jpeg>]
-
-Package tcolorbox Warning: Using nobreak failed. Try to enlarge `lines before b
-reak' or set page breaks manually on input line 92.
-
-[21<./Images/plantes_nature/millepertuis (1).jpeg>]
+[21]
 File: bc-crayon.mps Graphic file (type mps)
  [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-crayon.mps)
@@ -5268,7 +5287,7 @@ File: bc-plume.mps Graphic file (type mps)
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-plume.mps)
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 54.
-<Images/plantes_nature/sauge_officinale.jpeg, id=618, 1204.5pt x 1606.0pt>
+<Images/plantes_nature/sauge_officinale.jpeg, id=617, 1204.5pt x 1606.0pt>
 File: Images/plantes_nature/sauge_officinale.jpeg Graphic file (type jpg)
 <use Images/plantes_nature/sauge_officinale.jpeg>
 Package luatex.def Info: Images/plantes_nature/sauge_officinale.jpeg  used on i
@@ -5334,7 +5353,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--54
 
  []
 
-[22]
+[22<./Images/plantes_nature/millepertuis (1).jpeg>] [23<./Images/plantes_nature/
+sauge_officinale.jpeg>]
 File: bc-crayon.mps Graphic file (type mps)
  [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-crayon.mps)
@@ -5423,7 +5443,7 @@ File: bc-plume.mps Graphic file (type mps)
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-plume.mps)
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 70.
-<Images/plantes_nature/sauge-sclaree.jpg, id=626, 602.25pt x 451.6875pt>
+<Images/plantes_nature/sauge-sclaree.jpg, id=637, 602.25pt x 451.6875pt>
 File: Images/plantes_nature/sauge-sclaree.jpg Graphic file (type jpg)
 <use Images/plantes_nature/sauge-sclaree.jpg>
 Package luatex.def Info: Images/plantes_nature/sauge-sclaree.jpg  used on input
@@ -5478,8 +5498,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--70
 
  []
 
-[23<./Images/plantes_nature/sauge_officinale.jpeg>] [24<./Images/plantes_nature/
-sauge-sclaree.jpg>]
+[24]
 File: bc-crayon.mps Graphic file (type mps)
  [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-crayon.mps)
@@ -5491,7 +5510,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--81
 
  []
 
-) (./tex/botanique/lamiaceae/romarin.tex
+[25<./Images/plantes_nature/sauge-sclaree.jpg>])
+(./tex/botanique/lamiaceae/romarin.tex
 File: bc-fleur.mps Graphic file (type mps)
  [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
@@ -5530,7 +5550,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--58
 
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 58.
-<Images/plantes_nature/romarin.jpg, id=651, 1606.0pt x 1204.5pt>
+<Images/plantes_nature/romarin.jpg, id=660, 1606.0pt x 1204.5pt>
 File: Images/plantes_nature/romarin.jpg Graphic file (type jpg)
 <use Images/plantes_nature/romarin.jpg>
 Package luatex.def Info: Images/plantes_nature/romarin.jpg  used on input line 
@@ -5559,7 +5579,7 @@ Package mdframed Info: mdframed detected package amsthm
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 58.
 
-[25])) (./tex/botanique/rosaceae.tex (./tex/botanique/rosaceae/aubepine.tex
+[26])) (./tex/botanique/rosaceae.tex (./tex/botanique/rosaceae/aubepine.tex
 File: bc-fleur.mps Graphic file (type mps)
 
 [MP to PDF]
@@ -5614,7 +5634,7 @@ File: bc-plume.mps Graphic file (type mps)
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-plume.mps)
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 66.
-<Images/plantes_nature/downloads/aubepine.jpg, id=660, 361.35pt x 271.0125pt>
+<Images/plantes_nature/downloads/aubepine.jpg, id=668, 361.35pt x 271.0125pt>
 File: Images/plantes_nature/downloads/aubepine.jpg Graphic file (type jpg)
 <use Images/plantes_nature/downloads/aubepine.jpg>
 Package luatex.def Info: Images/plantes_nature/downloads/aubepine.jpg  used on 
@@ -5669,7 +5689,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--66
 
  []
 
-[26<./Images/plantes_nature/romarin.jpg>]
+[27<./Images/plantes_nature/romarin.jpg>] [28<./Images/plantes_nature/downloads/
+aubepine.jpg>]
 File: bc-crayon.mps Graphic file (type mps)
  [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-crayon.mps)
@@ -5759,7 +5780,7 @@ File: bc-plume.mps Graphic file (type mps)
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-plume.mps)
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 70.
-<Images/plantes_nature/downloads/reine_des_pres.jpg, id=675, 255.95625pt x 384.
+<Images/plantes_nature/downloads/reine_des_pres.jpg, id=692, 255.95625pt x 384.
 43625pt>
 File: Images/plantes_nature/downloads/reine_des_pres.jpg Graphic file (type jpg
 )
@@ -5815,8 +5836,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--70
 
  []
 
-[27<./Images/plantes_nature/downloads/aubepine.jpg>] [28<./Images/plantes_nature
-/downloads/reine_des_pres.jpg>]
+[29]
 File: bc-crayon.mps Graphic file (type mps)
  [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-crayon.mps)
@@ -5833,14 +5853,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--77
 File: bc-fleur.mps Graphic file (type mps)
  [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
-Underfull \hbox (badness 10000) in paragraph at lines 29--29
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+
+ []
+
+
+Underfull \hbox (badness 6332) in paragraph at lines 102--102
+[]\TU/TeXGyreSchola(0)/m/n/10.95 Elle sti-mule la pro-duc-tion de []\TU/TeXGyre
+Schola(0)/b/n/10.95 glo-bules
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
 
  []
 
 File: bc-fleur.mps Graphic file (type mps)
 [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
-Underfull \hbox (badness 10000) in paragraph at lines 29--29
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
 
  []
 
@@ -5850,35 +5881,147 @@ File: bc-calendrier.mps Graphic file (type mps)
 )
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 29.
+(mdframed)              on input line 102.
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[]\TU/TeXGyreSchola(0)/m/n/10.95 On pré-fé-rera uti-li-ser des \TU/TeXGyreSch
+ola(0)/b/n/10.95 jeunes
+ []
+
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 29.
+ mdframed uses option nobreak mdframed on input line 102.
 File: bc-outil.mps Graphic file (type mps)
- [MP to PDF]
+[MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-outil.mps)
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 29.
+(mdframed)              on input line 102.
+File: bc-plume.mps Graphic file (type mps)
+
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-plume.mps)
+File: bc-plume.mps Graphic file (type mps)
+
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-plume.mps)
 File: bc-plume.mps Graphic file (type mps)
 
 [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-plume.mps)
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 29.
-<Images/plantes_nature/sauge_de_jerusalem.jpg, id=695, 1204.5pt x 1606.0pt>
-File: Images/plantes_nature/sauge_de_jerusalem.jpg Graphic file (type jpg)
-<use Images/plantes_nature/sauge_de_jerusalem.jpg>
-Package luatex.def Info: Images/plantes_nature/sauge_de_jerusalem.jpg  used on 
-input line 29.
-(luatex.def)             Requested size: 168.4384pt x 224.56891pt.
+ mdframed uses option nobreak mdframed on input line 102.
+<Images/plantes_nature/ortie.jpg, id=701, 2055.68pt x 1541.76pt>
+File: Images/plantes_nature/ortie.jpg Graphic file (type jpg)
+<use Images/plantes_nature/ortie.jpg>
+Package luatex.def Info: Images/plantes_nature/ortie.jpg  used on input line 10
+2.
+(luatex.def)             Requested size: 168.4384pt x 126.30751pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 29.
+(caption)                particular \caption on input line 102.
 See the caption package documentation for explanation.
 
-[29]))) [30<./Images/plantes_nature/sauge_de_jerusalem.jpg>]
-(./tex/recettes.tex
+File: bc-fleur.mps Graphic file (type mps)
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
+File: bc-trefle.mps Graphic file (type mps)
+
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-trefle.mps)
+File: bc-trefle.mps Graphic file (type mps)
+
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-trefle.mps)
+File: bc-trefle.mps Graphic file (type mps)
+
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-trefle.mps)
+File: bc-trefle.mps Graphic file (type mps)
+
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-trefle.mps)
+File: bc-trefle.mps Graphic file (type mps)
+
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-trefle.mps)
+File: bc-trefle.mps Graphic file (type mps)
+
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-trefle.mps)
+File: bc-trefle.mps Graphic file (type mps)
+
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-trefle.mps)
+File: bc-trefle.mps Graphic file (type mps)
+
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-trefle.mps)
+File: bc-trefle.mps Graphic file (type mps)
+
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-trefle.mps)
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+
+ []
+
+File: bc-fleur.mps Graphic file (type mps)
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
+File: bc-oeil.mps Graphic file (type mps)
+
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-oeil.mps)
+File: bc-oeil.mps Graphic file (type mps)
+
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-oeil.mps)
+Underfull \hbox (badness 7012) in paragraph at lines 102--102
+[]\TU/TeXGyreSchola(0)/m/n/10.95 En gar-ga-rismes di-lué dans de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+
+ []
+
+File: bc-fleur.mps Graphic file (type mps)
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-fleur.mps)
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+
+ []
+
+[30<./Images/plantes_nature/downloads/reine_des_pres.jpg>] [31<./Images/plantes_
+nature/ortie.jpg>]
+File: bc-crayon.mps Graphic file (type mps)
+ [MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-crayon.mps)
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 113.
+File: bc-attention.mps Graphic file (type mps)
+
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-attention.mps)
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
+
+ []
+
+File: bc-attention.mps Graphic file (type mps)
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-attention.mps)
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
+
+ []
+
+File: bc-attention.mps Graphic file (type mps)
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-attention.mps)
+File: bc-attention.mps Graphic file (type mps)
+[MP to PDF]
+(C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-attention.mps))
+)) [32] (./tex/recettes.tex
 Underfull \hbox (badness 10000) in paragraph at lines 7--7
 
  []
@@ -5924,7 +6067,7 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 60.
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 60.
-<Images/preparations/baume/baume.jpg, id=716, 1606.0pt x 1204.5pt>
+<Images/preparations/baume/baume.jpg, id=734, 1606.0pt x 1204.5pt>
 File: Images/preparations/baume/baume.jpg Graphic file (type jpg)
 <use Images/preparations/baume/baume.jpg>
 Package luatex.def Info: Images/preparations/baume/baume.jpg  used on input lin
@@ -5945,7 +6088,7 @@ Package mdframed Info: mdframed detected package amsthm
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 60.
 
-[31]) (./tex/recettes/baume_lignee_feminine.tex
+[33]) (./tex/recettes/baume_lignee_feminine.tex
 File: bc-oeil.mps Graphic file (type mps)
  [MP to PDF]
 (C:/Users/Utilisateur/AppData/Roaming/MiKTeX/tex/latex/bclogo/bc-oeil.mps)
@@ -5986,7 +6129,7 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 58.
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 58.
-<Images/preparations/baume/baume_dessus_2.jpg, id=733, 1606.0pt x 1204.5pt>
+<Images/preparations/baume/baume_dessus_2.jpg, id=750, 1606.0pt x 1204.5pt>
 File: Images/preparations/baume/baume_dessus_2.jpg Graphic file (type jpg)
 <use Images/preparations/baume/baume_dessus_2.jpg>
 Package luatex.def Info: Images/preparations/baume/baume_dessus_2.jpg  used on 
@@ -6007,7 +6150,7 @@ Package mdframed Info: mdframed detected package amsthm
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 58.
 
-[32<./Images/preparations/baume/baume.jpg>])
+[34<./Images/preparations/baume/baume.jpg>])
 Underfull \hbox (badness 10000) in paragraph at lines 23--23
 
  []
@@ -6053,7 +6196,7 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 58.
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 58.
-<Images/preparations/baume/pommades.jpg, id=745, 1606.0pt x 1204.5pt>
+<Images/preparations/baume/pommades.jpg, id=762, 1606.0pt x 1204.5pt>
 File: Images/preparations/baume/pommades.jpg Graphic file (type jpg)
 <use Images/preparations/baume/pommades.jpg>
 Package luatex.def Info: Images/preparations/baume/pommades.jpg  used on input 
@@ -6074,7 +6217,7 @@ Package mdframed Info: mdframed detected package amsthm
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 58.
 
-[33<./Images/preparations/baume/baume_dessus_2.jpg>])
+[35<./Images/preparations/baume/baume_dessus_2.jpg>])
 (./tex/recettes/creme_anti_hemorroides.tex
 File: bc-oeil.mps Graphic file (type mps)
  [MP to PDF]
@@ -6116,7 +6259,7 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 57.
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 57.
-<Images/preparations/downloads/tm_achillee.jpg, id=763, 475.7775pt x 475.7775pt
+<Images/preparations/downloads/tm_achillee.jpg, id=780, 475.7775pt x 475.7775pt
 >
 File: Images/preparations/downloads/tm_achillee.jpg Graphic file (type jpg)
 <use Images/preparations/downloads/tm_achillee.jpg>
@@ -6138,7 +6281,7 @@ Package mdframed Info: mdframed detected package amsthm
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 57.
 
-[34<./Images/preparations/baume/pommades.jpg>]) [35]
+[36<./Images/preparations/baume/pommades.jpg>]) [37]
 (./tex/recettes/vinaigres.tex
 File: bc-oeil.mps Graphic file (type mps)
  [MP to PDF]
@@ -6206,7 +6349,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--44
 
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 44.
-[36<./Images/preparations/downloads/tm_achillee.jpg>])) [37]
+[38<./Images/preparations/downloads/tm_achillee.jpg>])) [39]
 (./tex/medecine.tex (./tex/medecine/digestion.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
@@ -6214,12 +6357,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
 ) (./tex/medecine/brulures.tex
 
-LaTeX Warning: Hyper reference `Millepertuis' on page 38 undefined on input lin
+LaTeX Warning: Hyper reference `Millepertuis' on page 40 undefined on input lin
 e 1.
 
 ) (./tex/medecine/coupures.tex) (./tex/medecine/fragilite.tex
 
-LaTeX Warning: Hyper reference `Ortie' on page 38 undefined on input line 1.
+LaTeX Warning: Hyper reference `Ortie' on page 40 undefined on input line 1.
 
 ) (./tex/medecine/irritation_gorge.tex
 File: bc-fleur.mps Graphic file (type mps)
@@ -6234,7 +6377,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--148
 
  []
 
-[38] (./Ressources/liste_148.tex
+[40] (./Ressources/liste_148.tex
 Underfull \hbox (badness 10000) in paragraph at lines 7--7
 
  []
@@ -6404,7 +6547,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--27
 []|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
  []
 
-[39]
+[41]
 Underfull \hbox (badness 10000) in paragraph at lines 43--43
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 An-gé-lique.An-gé-
  []
@@ -6539,7 +6682,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--43
 []|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
  []
 
-[40]
+[42]
 Underfull \hbox (badness 10000) in paragraph at lines 62--62
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Bal-sa-mite odo-
  []
@@ -6674,7 +6817,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--62
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ca-mo-mille vul-
  []
 
-[41]
+[43]
 Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Can-ne-lier de
  []
@@ -6884,7 +7027,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
  []
 
-[42]
+[44]
 Underfull \hbox (badness 10000) in paragraph at lines 102--102
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Voir : Courge
  []
@@ -6989,7 +7132,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--102
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Eleu-the-ro-coc-cus
  []
 
-[43]
+[45]
 Underfull \hbox (badness 5533) in paragraph at lines 117--117
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Ar-te-mi-sia dra-cun-
  []
@@ -7089,7 +7232,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 117--117
 []|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
  []
 
-[44]
+[46]
 Underfull \hbox (badness 10000) in paragraph at lines 136--136
 []|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
  []
@@ -7214,7 +7357,7 @@ Underfull \hbox (badness 2903) in paragraph at lines 136--136
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Gomme de ster-
  []
 
-[45]
+[47]
 Underfull \hbox (badness 10000) in paragraph at lines 156--156
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Griot-tier.Ce-
  []
@@ -7384,7 +7527,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 156--156
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Fleur, som-mité
  []
 
-[46]
+[48]
 Underfull \hbox (badness 10000) in paragraph at lines 170--170
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 La-vande stoe-
  []
@@ -7509,7 +7652,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--170
 []|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
  []
 
-[47]
+[49]
 Underfull \hbox (badness 10000) in paragraph at lines 189--189
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Mar-jo-laine.Ori-
  []
@@ -7669,7 +7812,7 @@ Underfull \hbox (badness 7486) in paragraph at lines 189--189
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Myr-tus com-mu-nis
  []
 
-[48]
+[50]
 Underfull \hbox (badness 10000) in paragraph at lines 209--209
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Myr-tille.Ai-relle
  []
@@ -7789,7 +7932,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 209--209
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Fleur, par-tie aé-
  []
 
-[49]
+[51]
 Underfull \hbox (badness 10000) in paragraph at lines 229--229
 []|\TU/TeXGyreSchola(0)/m/n/10.95 Voir : Criste ma-
  []
@@ -7924,7 +8067,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 229--229
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Rose tré-
  []
 
-[50]
+[52]
 Underfull \hbox (badness 10000) in paragraph at lines 249--249
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ro-sier à roses
  []
@@ -8109,7 +8252,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 249--249
 []|\TU/TeXGyreSchola(0)/m/n/10.95 En l’état - En
  []
 
-[51]
+[53]
 Underfull \hbox (badness 10000) in paragraph at lines 267--267
 []|[][][]\TU/TeXGyreSchola(0)/b/n/10.95 Ta-ma-ri-nier de
  []
@@ -8244,10 +8387,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 251--154
 
  []
 
-[52] ("./Notes de stage - Herboristerie 2024.ind" [53
+[54] ("./Notes de stage - Herboristerie 2024.ind" [55
 
-] [54]) [55]
-(./tex/references.tex) [56]
+] [56]) [57]
+(./tex/references.tex) [58]
 
 enddocument/afterlastpage: lastpage setting LastPage.
 ("./Notes de stage - Herboristerie 2024.aux")
@@ -8263,26 +8406,23 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `"Notes de stage - Herboristerie 2024".out' h
 as not changed.
 (rerunfilecheck)             Checksum: <no file>.
 )
 
 Here is how much of LuaTeX's memory you used:
- 108919 strings out of 477259
- 381858,5906145 words of node,token memory allocated
- 12904 words of node memory still in use:
-   33 hlist, 2 vlist, 15 rule, 572 glue, 4 kern, 1 penalty, 2 glyph, 3054 attrib
-ute, 125 glue_spec, 501 attribute_list, 2 write, 24 pdf_literal, 73 pdf_action, 
+ 108986 strings out of 477259
+ 596731,5906145 words of node,token memory allocated
+ 13236 words of node memory still in use:
+   33 hlist, 2 vlist, 15 rule, 593 glue, 4 kern, 1 penalty, 3 glyph, 3132 attrib
+ute, 125 glue_spec, 512 attribute_list, 2 write, 24 pdf_literal, 73 pdf_action, 
 24 pdf_colorstack nodes
-   avail lists: 1:61,2:37689,3:50233,4:1036,5:1095,6:238,7:7937,8:8,9:2174,10:21
-,11:537
- 125013 multiletter control sequences out of 65536+600000
- 192 fonts using 29677855 bytes
- 116i,18n,128p,2862b,2722s stack positions out of 10000i,1000n,20000p,200000b,200000s
+   avail lists: 1:75,2:37689,3:67948,4:1036,5:1105,6:239,7:7937,8:8,9:2174,10:21
+,11:565
+ 124942 multiletter control sequences out of 65536+600000
+ 192 fonts using 29677695 bytes
+ 116i,18n,128p,2862b,2720s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreschola-bold.otf><
 C:/Users/Utilisateur/AppData/Roaming/MiKTeX/fonts/opentype/public/fontawesome5/F
 ontAwesome5Free-Solid-900.otf><C:/Program Files/MiKTeX/fonts/opentype/public/tex
@@ -8292,10 +8432,10 @@ tex-gyre/texgyreschola-bold.otf><C:/Program Files/MiKTeX/fonts/opentype/public/t
 ex-gyre-math/texgyreschola-math.otf><C:/Program Files/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/c
 mtt8.pfb>
-Output written on Notes de stage - Herboristerie 2024.pdf (56 pages, 6303704 byt
+Output written on Notes de stage - Herboristerie 2024.pdf (58 pages, 6848963 byt
 es).
 
-PDF statistics: 1666 PDF objects out of 1728 (max. 8388607)
- 252 named destinations out of 1000 (max. 131072)
+PDF statistics: 1683 PDF objects out of 1728 (max. 8388607)
+ 255 named destinations out of 1000 (max. 131072)
  818 words of extra memory for PDF output out of 10000 (max. 100000000)
 
