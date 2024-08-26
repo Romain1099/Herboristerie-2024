@@ -77,7 +77,7 @@
 \NewDocumentEnvironment{boiterecette}{o+b}{
     \begin{tcolorbox}[
         enhanced,
-	breakable,
+	    breakable,
         before skip=2mm,after skip=2mm,
         colback=red!5,colframe=green!30!gray,boxrule=0pt,
         attach boxed title to top left={xshift=1cm,yshift*=1mm-\tcboxedtitleheight},
@@ -235,3 +235,17 @@
 
 % Définition de la commande \lien
 \newcommand{\lien}[2]{\hyperref[#1]{\bfseries\color{red!50!yellow}#2}}
+
+\newcommand{\Potins}[2]{
+    \begin{bclogo}[couleur=blue!10, arrondi=0.1, logo=\bcbook, marge=10]{Potins des plantes - #1}
+        #2% Votre contenu ici
+    \end{bclogo}
+}
+
+\newcommand{\subtil}[2]{
+    \begin{bclogo}[couleur=blue!10, arrondi=0.1, logo=\bcyin, marge=10]{Sur le plan subtile - #1}
+        \begin{itemize}[label=\faPen]
+            #2% Votre contenu ici
+        \end{itemize}
+    \end{bclogo}
+}
